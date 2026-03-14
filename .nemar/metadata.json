@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "pipeline_stage": "validated",
+  "pipeline_stage": "enriched",
   "authors": {
     "Emily S. Kappenman": {},
     "Jaclyn L. Farrens": {},
@@ -53,17 +53,17 @@
     ".wav",
     ".yml"
   ],
-  "description": "ERP CORE is a comprehensive open-access resource for event-related potential (ERP) research, providing raw EEG data from 40 neurotypical participants across 6 task paradigms designed to elicit 7 widely-used ERP components (N170, MMN, N2pc, N400, P3, LRP, and ERN). This raw dataset includes optimized experimental paradigms, stimulus materials, demographic information, and is organized according to BIDS standards. Processed data, analysis pipelines, and comprehensive results are available in the companion archival resource (10.18115/D5JW4R).",
-  "methods_description": "Raw EEG data were collected from 40 neurotypical adults across 6 task paradigms administered in a single recording session: Eriksen flanker task (ERN/LRP), passive auditory oddball (MMN), face perception task (N170), visual search (N2pc), word pair judgment (N400), and active visual oddball (P3). Data are organized according to BIDS standards with standardized electrode coordinates in EEGLAB orientation.",
+  "description": "ERP CORE is a comprehensive open-access resource for event-related potential (ERP) research, providing raw EEG data from 40 neurotypical participants across 6 task paradigms designed to elicit 7 widely-used ERP components (N170, MMN, N2pc, N400, P3, LRP, and ERN). The dataset includes optimized experimental paradigms, stimulus materials, demographic information, and standardized data processing pipelines to facilitate reproducible ERP research and component characterization.",
+  "methods_description": "EEG data were collected from 40 neurotypical adults across 6 task paradigms administered in a single recording session: an Eriksen flanker task (ERN/LRP), passive auditory oddball (MMN), face perception task (N170), visual search task (N2pc), word pair judgment task (N400), and active visual oddball (P3). EEG coordinate system uses EEGLAB orientation (Anterior-Left-Superior).",
   "keywords": [
     {
+      "term": "Event-Related Potentials",
+      "subject_scheme": "MeSH",
+      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D018913"
+    },
+    {
       "term": "EEG"
-    },
-    {
-      "term": "event-related potentials"
-    },
-    {
-      "term": "ERP components"
     },
     {
       "term": "N170"
@@ -72,25 +72,22 @@
       "term": "mismatch negativity"
     },
     {
-      "term": "P3"
-    },
-    {
-      "term": "ERN"
-    },
-    {
       "term": "N2pc"
     },
     {
-      "term": "LRP"
+      "term": "N400"
     },
     {
-      "term": "BIDS"
+      "term": "P3"
+    },
+    {
+      "term": "lateralized readiness potential"
+    },
+    {
+      "term": "error-related negativity"
     },
     {
       "term": "open data"
-    },
-    {
-      "term": "cognitive neuroscience"
     }
   ],
   "source_hash": "804c34b66f5faeecbe7d4c3d13b3e17576a76a9dc66a2eac44ee96746b48c5d7"
