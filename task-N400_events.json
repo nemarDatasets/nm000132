@@ -1,0 +1,18 @@
+{
+  "value": {
+    "LongName": "Event code value",
+    "Levels": {
+	   "111": "Stimulus - prime word, related word pair, list 1",
+	   "112": "Stimulus - prime word, related word pair, list 2",
+	   "121": "Stimulus - prime word, unrelated word pair, list 1",
+	   "122": "Stimulus - prime word, unrelated word pair, list 2",
+	   "211": "Stimulus - target word, related word pair, list 1",
+	   "212": "Stimulus - target word, related word pair, list 2",
+	   "221": "Stimulus - target word, unrelated word pair, list 1",
+	   "222": "Stimulus - target word, unrelated word pair, list 2",
+
+	   "201": "Response - correct",
+	   "202": "Response - error"
+    }
+  }
+}

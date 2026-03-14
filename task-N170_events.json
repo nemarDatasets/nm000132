@@ -1,0 +1,6 @@
+{
+  "value": {
+    "LongName": "Event code value",
+    "Description": "Numeric event codes. Stimulus codes 1-40: faces, 41-80: cars, 101-140: scrambled faces, 141-180: scrambled cars. Response codes 201: correct, 202: error."
+  }
+}

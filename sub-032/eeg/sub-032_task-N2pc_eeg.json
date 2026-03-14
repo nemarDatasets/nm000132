@@ -1,0 +1,21 @@
+{
+  "TaskName": "N2pc",
+  "InstitutionName": "San Diego State University",
+  "InstitutionAddress": "6363 Alvarado Court, Suite 250, San Diego, CA 92120 ",
+  "Manufacturer": "Biosemi",
+  "ManufacturersModelName": "ActiveTwo",
+  "TaskDescription": "The N2pc was elicited using a simple visual search task based on Luck et al. (2006). Participants were given a target color of pink or blue at the beginning of a trial block, and responded on each trial whether the gap in the target color square was on the top or bottom.",
+  "Instructions": "In this task, an array of squares will be presented to the left and right of a fixation point. For each block of trials you will be given a target color ([COLOR_ONE] or [COLOR_TWO]). Your task is to respond whether the target color square contains a gap on the top or bottom. If the gap is on the top of the target square, press the [TOP_BUTTON] with your dominant hand. If the gap is on the bottom of the target square, press the [BOTTOM_BUTTON] with your dominant hand. Please respond as quickly and accurately as possible and keep your eyes on the fixation point.",
+  "EEGReference": "CMS",
+  "SamplingFrequency": 1024,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "EEGPlacementScheme": "10-20",
+  "RecordingType": "continuous",
+  "EEGChannelCount": 30,
+  "EOGChannelCount": 3,
+  "EMGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "RecordingDuration": 651
+}

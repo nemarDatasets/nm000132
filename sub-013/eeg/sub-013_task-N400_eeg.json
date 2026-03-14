@@ -1,0 +1,21 @@
+{
+  "TaskName": "N400",
+  "InstitutionName": "San Diego State University",
+  "InstitutionAddress": "6363 Alvarado Court, Suite 250, San Diego, CA 92120 ",
+  "Manufacturer": "Biosemi",
+  "ManufacturersModelName": "ActiveTwo",
+  "TaskDescription": "The N400 was elicited using a word pair judgment task adapted from Holcomb & Kutas (1990). On each trial, a red prime word was followed by a green target word. Participants responded whether the target word was semantically related or unrelated to the prime word.",
+  "Instructions": "In this task, a pair of words will be presented in the center of the screen: one [PRIME_COLOR] word followed by one [TARGET_COLOR] word. Your task is to respond whether the two words are related to each other or unrelated to each other. If the [TARGET_COLOR] word is related to the [PRIME_COLOR] word, press the [RELATED_BUTTON]. If the [TARGET_COLOR] word is unrelated to the [PRIME_COLOR] word, press the [UNRELATED_BUTTON]. Try to respond as quickly and accurately as possible.",
+  "EEGReference": "CMS",
+  "SamplingFrequency": 1024,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "EEGPlacementScheme": "10-20",
+  "RecordingType": "continuous",
+  "EEGChannelCount": 30,
+  "EOGChannelCount": 3,
+  "EMGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "RecordingDuration": 416
+}

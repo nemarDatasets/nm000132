@@ -1,0 +1,6 @@
+The ERP CORE is a freely available online resource consisting of optimized paradigms, experiment control scripts, example data from 40 participants, data processing pipelines and analysis scripts, and a broad set of results for 7 different ERP components obtained from 6 different ERP paradigm.
+
+Archival copies of the EEGLAB/ERPLAB scripts and accessory files used for analyzing the data can be found on https://doi.org/10.18115/D5JW4R
+
+To download the latest versions of the scripts or to report bugs, visit https://github.com/lucklab/ERP_CORE
+For other questions about the ERP CORE, contact us at erpbootcamp@gmail.com. 

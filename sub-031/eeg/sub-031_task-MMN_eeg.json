@@ -1,0 +1,21 @@
+{
+  "TaskName": "MMN",
+  "InstitutionName": "San Diego State University",
+  "InstitutionAddress": "6363 Alvarado Court, Suite 250, San Diego, CA 92120 ",
+  "Manufacturer": "Biosemi",
+  "ManufacturersModelName": "ActiveTwo",
+  "TaskDescription": "The MMN was elicited using a passive auditory oddball task modeled on Naatanen et al. (2004). Standard tones (presented at 80 dB, with p = .8) and deviant tones (presented at 70 dB, with p = .2) were presented over speakers while participants watched a silent video and ignored the tones.",
+  "Instructions": "In this task, you will watch a silent movie while a series of tones are played over the speakers. Your only task is to watch the video. You are not required to make any responses. During the video, please keep your eyes focused on the center of the screen and try not to move your eyes around the screen.",
+  "EEGReference": "CMS",
+  "SamplingFrequency": 1024,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "EEGPlacementScheme": "10-20",
+  "RecordingType": "continuous",
+  "EEGChannelCount": 30,
+  "EOGChannelCount": 3,
+  "EMGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "RecordingDuration": 616
+}

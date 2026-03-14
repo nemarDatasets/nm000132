@@ -1,0 +1,12 @@
+{
+  "value": {
+    "LongName": "Event code value",
+    "Levels": {
+      "1": "Status event",
+      "4": "Status event",
+      "70": "Stimulus - deviant",
+      "80": "Stimulus - standard",
+      "180": "Stimulus - first stream of standards"
+    }
+  }
+}
