@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.nm000132-blue)](https://doi.org/10.82901/nemar.nm000132)
+
 # ERP CORE (Compendium of Open Resources and Experiments)
 
 Emily S. Kappenman(1,2), Jaclyn L. Farrens(1), Wendy Zhang(1,2), Andrew X. Stewart(3), & Steven J. Luck(3)
