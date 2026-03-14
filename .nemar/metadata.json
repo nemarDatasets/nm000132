@@ -57,7 +57,7 @@
   "methods_description": "EEG data were collected from 40 neurotypical adults across 6 task paradigms administered in a single recording session: an Eriksen flanker task (ERN/LRP), passive auditory oddball (MMN), face perception task (N170), visual search task (N2pc), word pair judgment task (N400), and active visual oddball (P3). EEG coordinate system uses EEGLAB orientation (Anterior-Left-Superior).",
   "keywords": [
     {
-      "term": "Event-Related Potentials",
+      "term": "Event-Related Potentials, P300",
       "subject_scheme": "MeSH",
       "scheme_uri": "https://id.nlm.nih.gov/mesh/",
       "value_uri": "http://id.nlm.nih.gov/mesh/D018913"
@@ -72,16 +72,7 @@
       "term": "mismatch negativity"
     },
     {
-      "term": "N2pc"
-    },
-    {
-      "term": "N400"
-    },
-    {
-      "term": "P3"
-    },
-    {
-      "term": "lateralized readiness potential"
+      "term": "P300"
     },
     {
       "term": "error-related negativity"
