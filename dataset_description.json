@@ -14,5 +14,6 @@
   "ReferencesAndLinks": [
     "https://erpinfo.org/erp-core"
   ],
-  "DatasetDOI": "10.82901/nemar.nm000132"
+  "DatasetDOI": "10.82901/nemar.nm000132",
+  "Version": "1.0.0"
 }
