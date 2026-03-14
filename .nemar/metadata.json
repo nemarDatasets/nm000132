@@ -2,11 +2,21 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "authors": {
-    "Emily S. Kappenman": {},
-    "Jaclyn L. Farrens": {},
-    "Wendy Zhang": {},
-    "Andrew X. Stewart": {},
-    "Steven J. Luck.": {}
+    "Emily S. Kappenman": {
+      "orcid": "0000-0002-2789-015X"
+    },
+    "Jaclyn L. Farrens": {
+      "orcid": "0000-0003-4354-772X"
+    },
+    "Wendy Zhang": {
+      "orcid": "0000-0002-3586-2626"
+    },
+    "Andrew X. Stewart": {
+      "orcid": "0000-0002-9402-4411"
+    },
+    "Steven J. Luck": {{
+      "orcid": "0000-0002-3725-1474"
+    },
   },
   "title": "ERP CORE",
   "license": "CC-BY-4.0",
