@@ -1,0 +1,85 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Emily S. Kappenman": {},
+    "Jaclyn L. Farrens": {},
+    "Wendy Zhang": {},
+    "Andrew X. Stewart": {},
+    "Steven J. Luck.": {}
+  },
+  "title": "ERP CORE",
+  "license": "CC-BY-4.0",
+  "dataset_type": "raw",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000132",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000132",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.18115/D5JW4R",
+      "identifier_type": "DOI",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.31234/osf.io/4azqm",
+      "identifier_type": "DOI",
+      "relation_type": "IsDescribedBy"
+    }
+  ],
+  "sizes": [
+    "18.8 GB (642 files)"
+  ],
+  "formats": [
+    ".avi",
+    ".bmp",
+    ".fdt",
+    ".json",
+    ".md",
+    ".set",
+    ".tsv",
+    ".txt",
+    ".wav",
+    ".yml"
+  ],
+  "description": "ERP CORE is a comprehensive open-access resource providing raw EEG data from 40 neurotypical participants performing six standardized task paradigms designed to elicit seven widely-used event-related potential (ERP) components: N170, mismatch negativity, N2pc, N400, P3, lateralized readiness potential, and error-related negativity. The dataset includes optimized experimental scripts, stimulus materials, demographic information, and data processing pipelines to facilitate reproducible ERP research and component characterization.",
+  "methods_description": "EEG data were collected from 40 neurotypical adults performing six task paradigms in a single recording session: an Eriksen flanker task (ERN/LRP), passive auditory oddball (MMN), face perception task (N170), visual search task (N2pc), word pair judgment task (N400), and active visual oddball (P3). EEG coordinates are defined using EEGLAB orientation (Anterior-Left-Superior).",
+  "keywords": [
+    {
+      "term": "Event-Related Potentials, P300",
+      "subject_scheme": "MeSH",
+      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D018913"
+    },
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "N170"
+    },
+    {
+      "term": "mismatch negativity"
+    },
+    {
+      "term": "P300"
+    },
+    {
+      "term": "error-related negativity"
+    },
+    {
+      "term": "neurotypical"
+    }
+  ],
+  "source_hash": "ebe327659a28d692f78ca61bd8fe1554f2b9549224129dcb955e6cf23c5f7491"
+}
