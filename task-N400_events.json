@@ -2,17 +2,28 @@
   "value": {
     "LongName": "Event code value",
     "Levels": {
-	   "111": "Stimulus - prime word, related word pair, list 1",
-	   "112": "Stimulus - prime word, related word pair, list 2",
-	   "121": "Stimulus - prime word, unrelated word pair, list 1",
-	   "122": "Stimulus - prime word, unrelated word pair, list 2",
-	   "211": "Stimulus - target word, related word pair, list 1",
-	   "212": "Stimulus - target word, related word pair, list 2",
-	   "221": "Stimulus - target word, unrelated word pair, list 1",
-	   "222": "Stimulus - target word, unrelated word pair, list 2",
-
-	   "201": "Response - correct",
-	   "202": "Response - error"
+	   "111": "Stimulus - prime word displayed in red (CIE x=0.65, y=0.33, 5.8 cd/m²), semantically related word pair, list 1; presented for 200 ms at center of screen, followed by ISI of 900-1100 ms before green target word; no response required to prime",
+	   "112": "Stimulus - prime word displayed in red (CIE x=0.65, y=0.33, 5.8 cd/m²), semantically related word pair, list 2; presented for 200 ms at center of screen, followed by ISI of 900-1100 ms before green target word; no response required to prime",
+	   "121": "Stimulus - prime word displayed in red (CIE x=0.65, y=0.33, 5.8 cd/m²), semantically unrelated word pair, list 1; presented for 200 ms at center of screen, followed by ISI of 900-1100 ms before green target word; no response required to prime",
+	   "122": "Stimulus - prime word displayed in red (CIE x=0.65, y=0.33, 5.8 cd/m²), semantically unrelated word pair, list 2; presented for 200 ms at center of screen, followed by ISI of 900-1100 ms before green target word; no response required to prime",
+	   "211": "Stimulus - target word displayed in green, semantically related to prime, list 1; presented for 200 ms at center of screen, followed by ITI of 1400-1600 ms; correct response: 'related' button",
+	   "212": "Stimulus - target word displayed in green, semantically related to prime, list 2; presented for 200 ms at center of screen, followed by ITI of 1400-1600 ms; correct response: 'related' button",
+	   "221": "Stimulus - target word displayed in green, semantically unrelated to prime, list 1; presented for 200 ms at center of screen, followed by ITI of 1400-1600 ms; correct response: 'unrelated' button",
+	   "222": "Stimulus - target word displayed in green, semantically unrelated to prime, list 2; presented for 200 ms at center of screen, followed by ITI of 1400-1600 ms; correct response: 'unrelated' button",
+	   "201": "Response - correct (related button for related pair, or unrelated button for unrelated pair)",
+	   "202": "Response - error (incorrect button pressed for pair relatedness)"
+    },
+	"HED": {
+	   "111": "(Duration/200 ms, (Sensory-event, Visual-presentation, Priming, ((Word, Red, ID/List-1), (Related-to, (Target)))))",
+	   "112": "(Duration/200 ms, (Sensory-event, Visual-presentation, Priming, ((Word, Red, ID/List-2), (Related-to, (Target)))))",
+	   "121": "(Duration/200 ms, (Sensory-event, Visual-presentation, Priming, ((Word, Red, ID/List-1), (Unrelated-to, (Target)))))",
+	   "122": "(Duration/200 ms, (Sensory-event, Visual-presentation, Priming, ((Word, Red, ID/List-1), (Unrelated-to, (Target)))))",
+	   "201": "Agent-action, Participant-response, Correct-action, (Press, (Push-button))",
+	   "202": "Agent-action, Participant-response, Incorrect-action, (Press, (Push-button))",
+	   "211": "(Duration/200 ms, (Sensory-event, Visual-presentation, Target, ((Word, Green, ID/List-1), (Related-to, (Priming)))))",
+	   "212": "(Duration/200 ms, (Sensory-event, Visual-presentation, Target, ((Word, Green, ID/List-2), (Related-to, (Priming)))))",
+	   "221": "(Duration/200 ms, (Sensory-event, Visual-presentation, Target, ((Word, Green, ID/List-1), (Unrelated-to, (Priming)))))",
+	   "222": "(Duration/200 ms, (Sensory-event, Visual-presentation, Target, ((Word, Green, ID/List-2), (Unrelated-to, (Priming)))))"
     }
   }
 }

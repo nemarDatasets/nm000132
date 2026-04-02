@@ -8,10 +8,7 @@ Emily S. Kappenman(1,2), Jaclyn L. Farrens(1), Wendy Zhang(1,2), Andrew X. Stewa
 2. SDSU/UC San Diego Joint Doctoral Program in Clinical Psychology, San Diego, CA, 92120
 3. University of California, Davis, Center for Mind & Brain and Department of Psychology, Davis, CA, 95616
 
-The ERP CORE (<https://doi.org/10.18115/D5JW4R>) is a freely available online resource consisting of optimized
-paradigms, experiment control scripts, example data from 40 neurotypical adults, data processing pipelines and
-analysis scripts, and a broad set of results for 7 widely used ERP components: N170, mismatch negativity (MMN),
-N2pc, N400, P3, lateralized readiness potential (LRP), and error-related negativity (ERN).
+The ERP CORE (<https://doi.org/10.18115/D5JW4R>) is a freely available online resource consisting of optimized paradigms, experiment control scripts, example data from 40 neurotypical adults, data processing pipelines and analysis scripts, and a broad set of results for 7 widely used ERP components: N170, mismatch negativity (MMN), N2pc, N400, P3, lateralized readiness potential (LRP), and error-related negativity (ERN).
 
 ## What's Included
 
@@ -22,20 +19,45 @@ N2pc, N400, P3, lateralized readiness potential (LRP), and error-related negativ
 
 ## Tasks
 
-| Task | ERP Component(s) | Description |
-|------|-------------------|-------------|
-| flankers | ERN, LRP | Eriksen flanker task (compatible/incompatible arrow flankers) |
-| MMN | MMN | Passive auditory oddball |
-| N170 | N170 | Face perception (faces, cars, scrambled) |
-| N2pc | N2pc | Visual search |
-| N400 | N400 | Word pair judgment (related/unrelated) |
-| P3 | P3 | Active visual oddball |
+| Task     | ERP Component(s) | Description                                                   |
+| -------- | ---------------- | ------------------------------------------------------------- |
+| flankers | ERN, LRP         | Eriksen flanker task (compatible/incompatible arrow flankers) |
+| MMN      | MMN              | Passive auditory oddball                                      |
+| N170     | N170             | Face perception (faces, cars, scrambled)                      |
+| N2pc     | N2pc             | Visual search                                                 |
+| N400     | N400             | Word pair judgment (related/unrelated)                        |
+| P3       | P3               | Active visual oddball                                         |
+
+The following more detailed description of the tasks was taken from [Kappenman et al. 2021](https://www.sciencedirect.com/science/article/pii/S1053811920309502) and its supplement. In all tasks the interstimulus image refers to a gray screen with a white central fixation point. The order of the six tasks was randomized across participants, and the task parameters were counterbalanced within participants wherever possible (see individual task descriptions below for details). Interstimulus intervals (ISIs) were jittered using a rectangular distribution to prevent phase-locking of alpha-band EEG oscillations to the stimulus sequence. Each block of trials began with a sequence of “Ready,” “Set,” “Go” screens. Participant-controlled rest breaks were provided between blocks.
+
+### Eriksen flanker task
+
+The lateralized readiness potential (LRP) and the error-related negativity (ERN) were elicited using a variant of the Eriksen flanker task ( Eriksen and Eriksen, 1974 ; see Fig. 1 F). A central arrowhead pointing to the left (<) or right (>) was flanked on both sides by 2 arrowheads that pointed in the same direction (congruent trials) or the opposite direction (incongruent trials). Participants indicated the direction of the central arrowhead on each trial with a left or right-hand buttonpress. The arrowheads were displayed for 200 ms followed by the interstimulus image displayed from 1200-1400 ms.
+
+### Passive auditory oddball
+
+The MMN was elicited using a passive auditory oddball task modeled on Näätänen et al. (2004). Standard tones (presented at 80 dB, with p = .8) and deviant tones (presented at 70 dB, with p = .2) were presented over speakers while participants watched a silent video and ignored the tones. The stimuli were 1000 Hz pure auditory tones, 100 ms in duration (including 5 ms rise and fall times), separated by a silent ISI of 450-550 ms. To establish the auditory context for the standard, a stream of 15 standard stimuli was presented at the start of the task; all remaining stimuli were presented in a random order with the specified probabilities, except with the constraint that no two deviant tones could be presented sequentially. A total of 1000 tones were presented (including the initial stream of 15 standards), consisting of 800 standards and 200 deviants. Participants watched a silent movie of [sand drawings](https://www.youtube.com/watch?v=TtBOuPMZdoQ) by artist Kseniya Simonova.
+
+### Face perception
+
+The N170 was elicited in a face perception task modified from Rossion and Caharel (2011) using their stimuli. In this task, an image of a face, car, scrambled face, or scrambled car was presented on each trial in the center of the screen, and participants responded whether the stimulus was an 'object' (face or car) or a 'texture' (scrambled face or scrambled car). The cropped images were displayed on a gray background for 300 ms followed by the interstimulus image for 1100-1300 ms. Each participant completed a total of 320 trials. Each category included 40 exemplars, each of which was presented twice, yielding 80 total trials of each stimulus category. The stimuli were presented in a randomly shuffled sequence, with the constraint that a given exemplar was presented only once in the first half and once in the second half of the session. The task was divided into blocks of 40 trials.
+
+### Visual search
+
+The N2pc was elicited using a simple visual search task based on Luck et al. (2006). Participants were given a target color of pink or blue at the beginning of a trial block, and responded on each trial whether the gap in the target color square was on the top or bottom. On each trial, 12 items were presented in the left visual field and 12 items were presented in the right visual field. Each item was an outlined square with a gap on one side. Eleven of the items in each visual field were black and had either a left-side or right-side gap (randomly and independently determined). In addition, one blue square and one pink square with a gap on either the top or bottom (randomly and independently determined) were presented on each trial. The blue and pink were equally distant from the gray background in the CIE (1976) color space. The pink item and blue item were always presented in opposite visual fields, with the location randomized across trials. Each stimulus array was presented for 500 ms, separated by the interstimulus image of 900-1100 ms. The fixation point was always visible. The blue item was the target for half of the task, and the pink item was the target for the other half; the order was counterbalanced across participants. Participants pressed a button to indicate the location of the gap in the target square using the index finger (top gap) and middle finger (bottom gap) of the dominant hand. Because the response mapping was natural (e.g., an upper buttonpress for a gap on the top), and the data were eventually collapsed across top and bottom gap positions, the stimulus-response mapping was held consistent across participants. Each participant completed a total of 320 trials, divided into blocks of 40.
+
+### Word pair judgement
+
+The N400 was elicited using a word pair judgment task adapted from Holcomb & Kutas (1990). On each trial, a red prime word was followed by a green target word. Participants responded whether the target word was semantically related or unrelated to the prime word. Each target word was presented twice in the experiment, once preceded by an associated prime word and once preceded by an unassociated prime word. Participants received a total of 60 associated word pairs and 60 unassociated word pairs. The order of word pairs was randomized with the constraint that each target word occurred only once within each half of the experiment. The prime word on each trial was presented for 200 ms in red (x = 0.65, y = 0.33, 5.8 cd/m2 ), followed by an ISI of 900-1100 ms. The target word was then presented for 200 ms in green, followed by an intertrial interval (ITI) of 1400-1600 ms. The prime and target words were presented in different colors to make it easier for participants to determine which word in the pair required a response. Participants were instructed to press one button if the target word was semantically related to the prime word and another button if the words were unrelated. Each participant completed 120 trials, divided into blocks of 20.
+
+### Active visual search
+
+The P3 was elicited in an active visual oddball task adapted from Luck et al. (2009). The letters A, B, C, D, and E were presented in random order ( p = .2 for each letter). One letter was designated the target for a given block of trials, and the other 4 letters were non-targets. Thus, the probability of the target category was .2, but the same physical stimulus served as a target in some blocks and a nontarget in others. Participants pressed one button for targets and another button for non-targets. Each of the five letters served as a target in one block of the experiment and as a non-target in the other four blocks, with the order of blocks randomized across participants. Each letter was presented with equal probability within a block of trials (p = .2), such that the target category was rare (p = .2) and the non-target category was frequent (p = .8). This design eliminates any possible sensory differences between the target and non-target stimuli, including differential sensory adaptation of the individual target and non-target stimuli (see Luck, 2014).
+
 
 ## BIDS Restructuring Notes
 
-The original dataset from NEMAR used `ses-*` (session) directories for each ERP paradigm.
-This was corrected because all 6 paradigms were administered in a single recording session
-(Kappenman et al., 2021). The following changes were made:
+The original dataset from NEMAR used `ses-*` (session) directories for each ERP paradigm. This was corrected because all 6 paradigms were administered in a single recording session (Kappenman et al., 2021). The following changes were made:
 
 - Removed session-level directories; data is now organized as `sub-XXX/eeg/sub-XXX_task-YYY_*`
 - Merged `task-ERN` and `task-LRP` into `task-flankers`, since both ERP components come from the same flanker paradigm recording (identical raw data)
@@ -47,10 +69,8 @@ This was corrected because all 6 paradigms were administered in a single recordi
 
 ## Contact
 
-Experiment control files, archival copies of the EEGLAB/ERPLAB scripts and accessory files
-used for analyzing the data, and the processed data can all be found at <https://doi.org/10.18115/D5JW4R>.
+Experiment control files, archival copies of the EEGLAB/ERPLAB scripts and accessory files used for analyzing the data, and the processed data can all be found at <https://doi.org/10.18115/D5JW4R>.
 
 To download the latest versions of the scripts or to report bugs, visit <https://github.com/lucklab/ERP_CORE>.
 
-For other questions about the ERP CORE, contact us at erpbootcamp@gmail.com.
-Additional ERP resources are available on the ERP Info website (<https://erpinfo.org>).
+For other questions about the ERP CORE, contact us at erpbootcamp@gmail.com. Additional ERP resources are available on the ERP Info website (<https://erpinfo.org>).

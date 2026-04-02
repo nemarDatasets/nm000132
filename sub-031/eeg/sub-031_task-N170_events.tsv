@@ -1,643 +1,643 @@
-onset	duration	sample	trial_type	stim_file	value
-6.3037	0.0	6456	response	n/a	202
-10.8154	0.0	11076	response	n/a	202
-15.0137	0.3	15375	stimulus	n/a	173
-15.4639	0.0	15836	response	n/a	201
-16.4961	0.3	16893	stimulus	n/a	17
-16.8242	0.0	17229	response	n/a	201
-18.0293	0.3	18463	stimulus	n/a	105
-18.3994	0.0	18842	response	n/a	201
-19.5117	0.3	19981	stimulus	n/a	76
-19.8633	0.0	20341	response	n/a	201
-21.0947	0.3	21602	stimulus	n/a	2
-21.4160	0.0	21931	response	n/a	201
-22.6445	0.3	23189	stimulus	n/a	106
-23.0635	0.0	23618	response	n/a	201
-24.1602	0.3	24741	stimulus	n/a	62
-24.5273	0.0	25117	response	n/a	201
-25.6094	0.3	26225	stimulus	n/a	171
-25.9512	0.0	26575	response	n/a	202
-27.1758	0.3	27829	stimulus	n/a	143
-27.5439	0.0	28206	response	n/a	201
-28.6250	0.3	29313	stimulus	n/a	80
-28.9600	0.0	29656	response	n/a	201
-30.1582	0.3	30883	stimulus	n/a	102
-30.5195	0.0	31253	response	n/a	201
-31.7080	0.3	32470	stimulus	n/a	16
-32.0635	0.0	32834	response	n/a	201
-33.1904	0.3	33988	stimulus	n/a	40
-33.5430	0.0	34349	response	n/a	201
-34.6230	0.3	35455	stimulus	n/a	11
-35.0156	0.0	35857	response	n/a	201
-36.0732	0.3	36940	stimulus	n/a	73
-36.4150	0.0	37290	response	n/a	202
-37.5059	0.3	38407	stimulus	n/a	28
-37.8877	0.0	38798	response	n/a	201
-39.0381	0.3	39976	stimulus	n/a	23
-39.3828	0.0	40329	response	n/a	201
-40.5215	0.3	41495	stimulus	n/a	152
-40.8955	0.0	41878	response	n/a	201
-42.0371	0.3	43047	stimulus	n/a	47
-42.3994	0.0	43418	response	n/a	201
-43.5869	0.3	44634	stimulus	n/a	60
-43.9189	0.0	44974	response	n/a	201
-45.1533	0.3	46238	stimulus	n/a	72
-45.4707	0.0	46563	response	n/a	201
-46.6523	0.3	47773	stimulus	n/a	42
-46.9590	0.0	48087	response	n/a	201
-48.1514	0.3	49308	stimulus	n/a	141
-48.5195	0.0	49685	response	n/a	202
-49.6182	0.3	50810	stimulus	n/a	29
-50.0146	0.0	51216	response	n/a	201
-51.0342	0.3	52260	stimulus	n/a	177
-51.4551	0.0	52691	response	n/a	201
-52.5840	0.3	53847	stimulus	n/a	124
-52.9990	0.0	54272	response	n/a	201
-54.1494	0.3	55450	stimulus	n/a	13
-54.4785	0.0	55787	response	n/a	201
-55.6992	0.3	57037	stimulus	n/a	174
-56.0469	0.0	57393	response	n/a	201
-57.1152	0.3	58487	stimulus	n/a	21
-57.4873	0.0	58868	response	n/a	201
-58.6318	0.3	60040	stimulus	n/a	113
-59.0146	0.0	60432	response	n/a	201
-60.1309	0.3	61575	stimulus	n/a	7
-60.4551	0.0	61907	response	n/a	201
-61.6807	0.3	63162	stimulus	n/a	38
-61.9990	0.0	63488	response	n/a	201
-63.1797	0.3	64697	stimulus	n/a	151
-63.5430	0.0	65069	response	n/a	201
-64.6289	0.3	66181	stimulus	n/a	145
-64.9746	0.0	66535	response	n/a	202
-66.1289	0.3	67717	stimulus	n/a	155
-66.4707	0.0	68067	response	n/a	201
-67.6777	0.3	69303	stimulus	n/a	69
-68.0146	0.0	69648	response	n/a	201
-69.2773	0.3	70941	stimulus	n/a	103
-69.7266	0.0	71401	response	n/a	201
-70.7441	0.3	72443	stimulus	n/a	4
-71.1504	0.0	72859	response	n/a	201
-72.3428	0.3	74080	stimulus	n/a	1
-72.7109	0.0	74457	response	n/a	201
-73.7764	0.3	75548	stimulus	n/a	14
-74.0947	0.0	75874	response	n/a	201
-82.2559	0.3	84231	stimulus	n/a	125
-82.9502	0.0	84942	response	n/a	201
-83.7559	0.3	85767	stimulus	n/a	104
-84.1260	0.0	86146	response	n/a	201
-85.2881	0.3	87336	stimulus	n/a	167
-85.6543	0.0	87711	response	n/a	201
-86.6885	0.3	88770	stimulus	n/a	150
-87.0459	0.0	89136	response	n/a	201
-88.1045	0.3	90220	stimulus	n/a	49
-88.3906	0.0	90513	response	n/a	201
-89.6699	0.3	91823	stimulus	n/a	52
-90.0059	0.0	92167	response	n/a	201
-91.2529	0.3	93444	stimulus	n/a	127
-91.7100	0.0	93912	response	n/a	201
-92.6689	0.3	94894	stimulus	n/a	65
-93.0381	0.0	95272	response	n/a	201
-94.1357	0.3	96396	stimulus	n/a	64
-94.4863	0.0	96755	response	n/a	201
-95.6514	0.3	97948	stimulus	n/a	153
-96.0059	0.0	98311	response	n/a	201
-97.1680	0.3	99501	stimulus	n/a	118
-97.5098	0.0	99851	response	n/a	201
-98.7500	0.3	101121	stimulus	n/a	137
-99.0625	0.0	101441	response	n/a	201
-100.3496	0.3	102759	stimulus	n/a	18
-100.7100	0.0	103128	response	n/a	201
-101.8164	0.3	104261	stimulus	n/a	162
-102.1416	0.0	104594	response	n/a	201
-103.2656	0.3	105745	stimulus	n/a	35
-103.5742	0.0	106061	response	n/a	201
-104.8486	0.3	107366	stimulus	n/a	59
-105.1982	0.0	107724	response	n/a	202
-106.3809	0.3	108935	stimulus	n/a	25
-106.7500	0.0	109313	response	n/a	201
-107.9639	0.3	110556	stimulus	n/a	66
-108.3340	0.0	110935	response	n/a	202
-109.4795	0.3	112108	stimulus	n/a	157
-109.9014	0.0	112540	response	n/a	201
-110.9463	0.3	113610	stimulus	n/a	108
-111.3018	0.0	113974	response	n/a	201
-112.3955	0.3	115094	stimulus	n/a	36
-112.7822	0.0	115490	response	n/a	201
-113.9785	0.3	116715	stimulus	n/a	12
-114.2939	0.0	117038	response	n/a	201
-115.4941	0.3	118267	stimulus	n/a	70
-115.8457	0.0	118627	response	n/a	201
-116.9277	0.3	119735	stimulus	n/a	3
-117.3418	0.0	120159	response	n/a	201
-118.4766	0.3	121321	stimulus	n/a	154
-118.8379	0.0	121691	response	n/a	201
-119.9424	0.3	122822	stimulus	n/a	180
-120.2852	0.0	123173	response	n/a	201
-121.3926	0.3	124307	stimulus	n/a	119
-121.9092	0.0	124836	response	n/a	201
-122.9414	0.3	125893	stimulus	n/a	163
-123.2939	0.0	126254	response	n/a	201
-124.4746	0.3	127463	stimulus	n/a	175
-124.7979	0.0	127794	response	n/a	201
-125.9238	0.3	128947	stimulus	n/a	68
-126.3252	0.0	129358	response	n/a	201
-127.3398	0.3	130397	stimulus	n/a	133
-127.7012	0.0	130767	response	n/a	202
-128.7568	0.3	131848	stimulus	n/a	179
-129.2051	0.0	132307	response	n/a	201
-130.3223	0.3	133451	stimulus	n/a	166
-130.6377	0.0	133774	response	n/a	201
-131.8555	0.3	135021	stimulus	n/a	79
-132.3574	0.0	135535	response	n/a	201
-133.3711	0.3	136573	stimulus	n/a	27
-133.7256	0.0	136936	response	n/a	201
-134.9375	0.3	138177	stimulus	n/a	48
-135.3096	0.0	138558	response	n/a	202
-136.5205	0.3	139798	stimulus	n/a	114
-136.8535	0.0	140139	response	n/a	201
-138.0527	0.3	141367	stimulus	n/a	55
-138.4531	0.0	141777	response	n/a	201
-139.4521	0.3	142800	stimulus	n/a	172
-139.8135	0.0	143170	response	n/a	202
-140.9355	0.3	144319	stimulus	n/a	160
-141.4053	0.0	144800	response	n/a	201
-150.5654	0.3	154180	stimulus	n/a	57
-151.0771	0.0	154704	response	n/a	201
-152.1484	0.3	155801	stimulus	n/a	178
-152.5488	0.0	156211	response	n/a	201
-153.7305	0.3	157421	stimulus	n/a	41
-154.2207	0.0	157923	response	n/a	201
-155.1807	0.3	158906	stimulus	n/a	43
-155.5410	0.0	159275	response	n/a	201
-156.7793	0.3	160543	stimulus	n/a	144
-157.1484	0.0	160921	response	n/a	201
-158.1963	0.3	161994	stimulus	n/a	74
-158.7168	0.0	162527	response	n/a	201
-159.6787	0.3	163512	stimulus	n/a	56
-160.0605	0.0	163903	response	n/a	201
-161.0781	0.3	164945	stimulus	n/a	15
-161.4766	0.0	165353	response	n/a	202
-162.6445	0.3	166549	stimulus	n/a	158
-162.9971	0.0	166910	response	n/a	201
-164.2100	0.3	168152	stimulus	n/a	31
-164.5889	0.0	168540	response	n/a	201
-165.6602	0.3	169637	stimulus	n/a	24
-165.9971	0.0	169982	response	n/a	201
-167.2422	0.3	171257	stimulus	n/a	136
-167.7568	0.0	171784	response	n/a	201
-168.7422	0.3	172793	stimulus	n/a	156
-169.1328	0.0	173193	response	n/a	201
-170.2920	0.3	174380	stimulus	n/a	138
-170.6289	0.0	174725	response	n/a	201
-171.7080	0.3	175830	stimulus	n/a	130
-171.9961	0.0	176125	response	n/a	201
-173.2070	0.3	177365	stimulus	n/a	78
-173.5801	0.0	177747	response	n/a	201
-174.7900	0.3	178986	stimulus	n/a	32
-175.1406	0.0	179345	response	n/a	201
-176.2891	0.3	180521	stimulus	n/a	164
-176.6201	0.0	180860	response	n/a	201
-177.7061	0.3	181972	stimulus	n/a	107
-178.1006	0.0	182376	response	n/a	201
-179.2217	0.3	183524	stimulus	n/a	67
-179.5879	0.0	183899	response	n/a	201
-180.6875	0.3	185025	stimulus	n/a	19
-181.0439	0.0	185390	response	n/a	201
-182.1875	0.3	186561	stimulus	n/a	126
-182.5078	0.0	186889	response	n/a	201
-183.7197	0.3	188130	stimulus	n/a	50
-184.0762	0.0	188495	response	n/a	201
-185.1699	0.3	189615	stimulus	n/a	77
-185.5645	0.0	190019	response	n/a	201
-186.7188	0.3	191201	stimulus	n/a	39
-187.0205	0.0	191510	response	n/a	201
-188.3184	0.3	192839	stimulus	n/a	53
-188.6523	0.0	193181	response	n/a	201
-189.8018	0.3	194358	stimulus	n/a	169
-190.1963	0.0	194762	response	n/a	201
-191.4004	0.3	195995	stimulus	n/a	168
-191.7080	0.0	196310	response	n/a	201
-192.8672	0.3	197497	stimulus	n/a	20
-193.2441	0.0	197883	response	n/a	201
-194.3496	0.3	199015	stimulus	n/a	10
-194.7158	0.0	199390	response	n/a	201
-195.9160	0.3	200619	stimulus	n/a	159
-196.2598	0.0	200971	response	n/a	202
-197.4980	0.3	202239	stimulus	n/a	115
-197.9316	0.0	202683	response	n/a	201
-199.0479	0.3	203826	stimulus	n/a	148
-199.3877	0.0	204174	response	n/a	201
-200.5811	0.3	205396	stimulus	n/a	33
-200.8760	0.0	205698	response	n/a	201
-201.9971	0.3	206846	stimulus	n/a	71
-202.3154	0.0	207172	response	n/a	201
-203.5635	0.3	208450	stimulus	n/a	129
-203.8916	0.0	208786	response	n/a	201
-205.0791	0.3	210002	stimulus	n/a	112
-205.4355	0.0	210367	response	n/a	201
-206.4951	0.3	211452	stimulus	n/a	165
-206.8682	0.0	211834	response	n/a	201
-208.0117	0.3	213005	stimulus	n/a	22
-208.3955	0.0	213398	response	n/a	201
-209.5605	0.3	214591	stimulus	n/a	142
-209.8994	0.0	214938	response	n/a	201
-217.1582	0.3	222371	stimulus	n/a	9
-217.8271	0.0	223056	response	n/a	201
-218.5908	0.3	223838	stimulus	n/a	123
-219.0273	0.0	224285	response	n/a	201
-219.9902	0.3	225271	stimulus	n/a	45
-220.4512	0.0	225743	response	n/a	201
-221.5068	0.3	226824	stimulus	n/a	37
-221.8672	0.0	227193	response	n/a	202
-222.9727	0.3	228325	stimulus	n/a	5
-223.4189	0.0	228782	response	n/a	201
-224.4219	0.3	229809	stimulus	n/a	121
-224.8438	0.0	230241	response	n/a	201
-225.8555	0.3	231277	stimulus	n/a	116
-226.1953	0.0	231625	response	n/a	201
-227.3047	0.3	232761	stimulus	n/a	161
-227.6836	0.0	233149	response	n/a	201
-228.8711	0.3	234365	stimulus	n/a	134
-229.2275	0.0	234730	response	n/a	201
-230.4697	0.3	236002	stimulus	n/a	170
-230.8271	0.0	236368	response	n/a	201
-231.9863	0.3	237555	stimulus	n/a	61
-232.3389	0.0	237916	response	n/a	201
-233.4355	0.3	239039	stimulus	n/a	132
-233.7637	0.0	239375	response	n/a	202
-235.0352	0.3	240677	stimulus	n/a	63
-235.5469	0.0	241201	response	n/a	201
-236.5010	0.3	242178	stimulus	n/a	75
-236.8594	0.0	242545	response	n/a	201
-237.9512	0.3	243663	stimulus	n/a	51
-238.2676	0.0	243987	response	n/a	201
-239.4502	0.3	245198	stimulus	n/a	135
-239.7949	0.0	245551	response	n/a	201
-240.8496	0.3	246631	stimulus	n/a	54
-241.2188	0.0	247009	response	n/a	202
-242.4326	0.3	248252	stimulus	n/a	147
-242.7393	0.0	248566	response	n/a	201
-243.9482	0.3	249804	stimulus	n/a	131
-244.3389	0.0	250204	response	n/a	201
-245.3818	0.3	251272	stimulus	n/a	120
-245.7070	0.0	251605	response	n/a	201
-246.9639	0.3	252892	stimulus	n/a	117
-247.3066	0.0	253243	response	n/a	201
-248.4805	0.3	254445	stimulus	n/a	139
-248.7949	0.0	254767	response	n/a	201
-249.9297	0.3	255929	stimulus	n/a	58
-250.3145	0.0	256323	response	n/a	201
-251.3789	0.3	257413	stimulus	n/a	44
-251.7471	0.0	257790	response	n/a	201
-252.9287	0.3	259000	stimulus	n/a	46
-253.2510	0.0	259330	response	n/a	201
-254.4619	0.3	260570	stimulus	n/a	109
-254.8350	0.0	260952	response	n/a	201
-255.9941	0.3	262139	stimulus	n/a	65
-256.3145	0.0	262467	response	n/a	202
-257.4102	0.3	263589	stimulus	n/a	176
-257.8105	0.0	263999	response	n/a	201
-258.8438	0.3	265057	stimulus	n/a	50
-259.3311	0.0	265556	response	n/a	201
-260.3760	0.3	266626	stimulus	n/a	8
-260.8350	0.0	267096	response	n/a	202
-261.9092	0.3	268196	stimulus	n/a	53
-262.4102	0.0	268709	response	n/a	201
-263.3584	0.3	269680	stimulus	n/a	34
-263.7227	0.0	270053	response	n/a	201
-264.8740	0.3	271232	stimulus	n/a	30
-265.2266	0.0	271593	response	n/a	201
-266.4736	0.3	272870	stimulus	n/a	73
-266.9141	0.0	273321	response	n/a	201
-268.0400	0.3	274474	stimulus	n/a	111
-268.5547	0.0	275001	response	n/a	201
-269.6064	0.3	276078	stimulus	n/a	26
-270.1309	0.0	276615	response	n/a	201
-271.1885	0.3	277698	stimulus	n/a	51
-271.8984	0.0	278425	response	n/a	201
-272.7051	0.3	279251	stimulus	n/a	6
-273.1465	0.0	279703	response	n/a	201
-274.2207	0.3	280803	stimulus	n/a	101
-274.6504	0.0	281243	response	n/a	201
-275.7539	0.3	282373	stimulus	n/a	70
-276.1064	0.0	282734	response	n/a	201
-286.5996	0.3	293479	stimulus	n/a	19
-287.0264	0.0	293916	response	n/a	201
-288.1494	0.3	295066	stimulus	n/a	122
-288.5137	0.0	295439	response	n/a	201
-289.5986	0.3	296550	stimulus	n/a	31
-289.9141	0.0	296873	response	n/a	201
-291.1650	0.3	298154	stimulus	n/a	146
-291.5381	0.0	298536	response	n/a	201
-292.6816	0.3	299707	stimulus	n/a	23
-292.9541	0.0	299986	response	n/a	201
-294.2637	0.3	301327	stimulus	n/a	140
-294.6104	0.0	301682	response	n/a	201
-295.7305	0.3	302829	stimulus	n/a	80
-296.2021	0.0	303312	response	n/a	201
-297.1299	0.3	304262	stimulus	n/a	128
-297.4902	0.0	304631	response	n/a	201
-298.5791	0.3	305746	stimulus	n/a	5
-298.9219	0.0	306097	response	n/a	201
-300.0283	0.3	307230	stimulus	n/a	110
-300.3379	0.0	307547	response	n/a	201
-301.5947	0.3	308834	stimulus	n/a	149
-301.8975	0.0	309144	response	n/a	202
-303.0107	0.3	310284	stimulus	n/a	64
-303.4336	0.0	310717	response	n/a	201
-304.4268	0.3	311734	stimulus	n/a	148
-304.8896	0.0	312208	response	n/a	201
-305.9600	0.3	313304	stimulus	n/a	47
-306.2900	0.0	313642	response	n/a	201
-307.5596	0.3	314942	stimulus	n/a	135
-307.8896	0.0	315280	response	n/a	202
-309.0586	0.3	316477	stimulus	n/a	142
-309.5215	0.0	316951	response	n/a	201
-310.4746	0.3	317927	stimulus	n/a	44
-310.8574	0.0	318319	response	n/a	201
-311.9248	0.3	319412	stimulus	n/a	109
-312.2734	0.0	319769	response	n/a	201
-313.3906	0.3	320913	stimulus	n/a	178
-313.7852	0.0	321317	response	n/a	201
-314.8730	0.3	322431	stimulus	n/a	110
-315.1855	0.0	322751	response	n/a	201
-316.3896	0.3	323984	stimulus	n/a	62
-316.7139	0.0	324316	response	n/a	201
-317.8721	0.3	325502	stimulus	n/a	40
-318.3213	0.0	325962	response	n/a	201
-319.3047	0.3	326969	stimulus	n/a	29
-319.6250	0.0	327297	response	n/a	201
-320.8213	0.3	328522	stimulus	n/a	78
-321.1533	0.0	328862	response	n/a	201
-322.4209	0.3	330160	stimulus	n/a	22
-322.7773	0.0	330525	response	n/a	201
-324.0029	0.3	331780	stimulus	n/a	177
-324.2969	0.0	332081	response	n/a	201
-325.4863	0.3	333299	stimulus	n/a	162
-325.8330	0.0	333654	response	n/a	201
-327.0361	0.3	334886	stimulus	n/a	165
-327.3613	0.0	335219	response	n/a	202
-328.5352	0.3	336421	stimulus	n/a	3
-328.9287	0.0	336824	response	n/a	201
-329.9512	0.3	337871	stimulus	n/a	26
-330.2891	0.0	338217	response	n/a	201
-331.4844	0.3	339441	stimulus	n/a	13
-331.8008	0.0	339765	response	n/a	201
-332.9834	0.3	340976	stimulus	n/a	102
-333.4414	0.0	341445	response	n/a	201
-334.4492	0.3	342477	stimulus	n/a	144
-334.8330	0.0	342870	response	n/a	201
-335.9824	0.3	344047	stimulus	n/a	57
-336.3447	0.0	344418	response	n/a	201
-337.4482	0.3	345548	stimulus	n/a	112
-337.8809	0.0	345991	response	n/a	201
-338.9648	0.3	347101	stimulus	n/a	168
-339.2812	0.0	347425	response	n/a	201
-340.5479	0.3	348722	stimulus	n/a	60
-340.9932	0.0	349178	response	n/a	201
-342.0635	0.3	350274	stimulus	n/a	75
-342.3926	0.0	350611	response	n/a	201
-343.5801	0.3	351827	stimulus	n/a	25
-343.9688	0.0	352225	response	n/a	201
-345.1787	0.3	353464	stimulus	n/a	52
-345.5127	0.0	353806	response	n/a	201
-356.3252	0.3	364878	stimulus	n/a	173
-356.8564	0.0	365422	response	n/a	202
-357.8076	0.3	366396	stimulus	n/a	58
-358.1367	0.0	366733	response	n/a	201
-359.3574	0.3	367983	stimulus	n/a	143
-359.9209	0.0	368560	response	n/a	201
-360.9570	0.3	369621	stimulus	n/a	132
-361.3604	0.0	370034	response	n/a	202
-362.3564	0.3	371054	stimulus	n/a	42
-362.7285	0.0	371435	response	n/a	201
-363.9062	0.3	372641	stimulus	n/a	71
-364.3281	0.0	373073	response	n/a	201
-365.3389	0.3	374108	stimulus	n/a	176
-365.8486	0.0	374630	response	n/a	201
-366.8213	0.3	375626	stimulus	n/a	166
-367.2002	0.0	376014	response	n/a	201
-368.3379	0.3	377179	stimulus	n/a	170
-368.6807	0.0	377530	response	n/a	201
-369.8701	0.3	378748	stimulus	n/a	48
-370.3682	0.0	379258	response	n/a	201
-371.4199	0.3	380335	stimulus	n/a	156
-371.8242	0.0	380749	response	n/a	201
-372.8691	0.3	381819	stimulus	n/a	7
-373.2402	0.0	382199	response	n/a	201
-374.4521	0.3	383440	stimulus	n/a	125
-374.8643	0.0	383862	response	n/a	201
-376.0020	0.3	385027	stimulus	n/a	108
-376.4004	0.0	385435	response	n/a	201
-377.4180	0.3	386477	stimulus	n/a	1
-377.7520	0.0	386819	response	n/a	201
-378.8672	0.3	387961	stimulus	n/a	116
-379.2803	0.0	388384	response	n/a	201
-380.3662	0.3	389496	stimulus	n/a	157
-380.6797	0.0	389817	response	n/a	201
-381.9492	0.3	391117	stimulus	n/a	76
-382.3037	0.0	391480	response	n/a	201
-383.4326	0.3	392636	stimulus	n/a	55
-383.8076	0.0	393020	response	n/a	201
-384.8486	0.3	394086	stimulus	n/a	123
-385.2158	0.0	394462	response	n/a	201
-386.3477	0.3	395621	stimulus	n/a	74
-386.7041	0.0	395986	response	n/a	201
-387.7803	0.3	397088	stimulus	n/a	107
-388.2637	0.0	397583	response	n/a	201
-389.2803	0.3	398624	stimulus	n/a	54
-389.6074	0.0	398959	response	n/a	201
-390.8467	0.3	400228	stimulus	n/a	43
-391.1602	0.0	400549	response	n/a	201
-392.3125	0.3	401729	stimulus	n/a	129
-392.7041	0.0	402130	response	n/a	201
-393.7451	0.3	403196	stimulus	n/a	145
-394.0957	0.0	403555	response	n/a	202
-395.1445	0.3	404629	stimulus	n/a	46
-395.5117	0.0	405005	response	n/a	201
-396.7441	0.3	406267	stimulus	n/a	131
-397.0879	0.0	406619	response	n/a	201
-398.1768	0.3	407734	stimulus	n/a	34
-398.5361	0.0	408102	response	n/a	201
-399.6260	0.3	409218	stimulus	n/a	158
-400.0479	0.0	409650	response	n/a	201
-401.0596	0.3	410686	stimulus	n/a	66
-401.4873	0.0	411124	response	n/a	201
-402.5918	0.3	412255	stimulus	n/a	150
-402.9600	0.0	412632	response	n/a	201
-404.0918	0.3	413791	stimulus	n/a	105
-404.4561	0.0	414164	response	n/a	201
-405.5908	0.3	415326	stimulus	n/a	33
-405.9912	0.0	415736	response	n/a	201
-407.0234	0.3	416793	stimulus	n/a	77
-407.5117	0.0	417293	response	n/a	201
-408.5566	0.3	418363	stimulus	n/a	63
-408.9512	0.0	418767	response	n/a	201
-410.0391	0.3	419881	stimulus	n/a	163
-410.4238	0.0	420275	response	n/a	202
-411.4551	0.3	421331	stimulus	n/a	153
-411.9111	0.0	421798	response	n/a	201
-413.0049	0.3	422918	stimulus	n/a	149
-413.3750	0.0	423297	response	n/a	201
-414.4873	0.3	424436	stimulus	n/a	2
-414.8789	0.0	424837	response	n/a	201
-423.3516	0.3	433513	stimulus	n/a	146
-423.8477	0.0	434021	response	n/a	201
-424.8838	0.3	435082	stimulus	n/a	30
-425.1836	0.0	435389	response	n/a	201
-426.4502	0.3	436686	stimulus	n/a	36
-426.8154	0.0	437060	response	n/a	201
-428.0332	0.3	438307	stimulus	n/a	136
-428.4072	0.0	438690	response	n/a	202
-429.6162	0.3	439928	stimulus	n/a	17
-430.0068	0.0	440328	response	n/a	201
-431.1152	0.3	441463	stimulus	n/a	72
-431.5908	0.0	441950	response	n/a	201
-432.5479	0.3	442930	stimulus	n/a	11
-432.9111	0.0	443302	response	n/a	201
-434.0977	0.3	444517	stimulus	n/a	152
-434.5273	0.0	444957	response	n/a	201
-435.5137	0.3	445967	stimulus	n/a	28
-435.9346	0.0	446398	response	n/a	201
-436.9629	0.3	447451	stimulus	n/a	171
-437.3193	0.0	447816	response	n/a	201
-438.4795	0.3	449004	stimulus	n/a	38
-438.8232	0.0	449356	response	n/a	201
-440.0117	0.3	450573	stimulus	n/a	160
-440.3828	0.0	450953	response	n/a	201
-441.5615	0.3	452160	stimulus	n/a	140
-441.8711	0.0	452477	response	n/a	201
-443.1445	0.3	453781	stimulus	n/a	167
-443.5508	0.0	454197	response	n/a	201
-444.7266	0.3	455401	stimulus	n/a	120
-445.0791	0.0	455762	response	n/a	201
-446.1768	0.3	456886	stimulus	n/a	117
-446.5107	0.0	457228	response	n/a	201
-447.6924	0.3	458438	stimulus	n/a	24
-447.9590	0.0	458711	response	n/a	201
-449.2090	0.3	459991	stimulus	n/a	103
-449.5029	0.0	460292	response	n/a	201
-450.7080	0.3	461526	stimulus	n/a	126
-451.0869	0.0	461914	response	n/a	201
-452.2744	0.3	463130	stimulus	n/a	180
-452.6387	0.0	463503	response	n/a	201
-453.7568	0.3	464648	stimulus	n/a	20
-454.0947	0.0	464994	response	n/a	201
-455.3564	0.3	466286	stimulus	n/a	139
-455.6465	0.0	466583	response	n/a	201
-456.9395	0.3	467907	stimulus	n/a	151
-457.3027	0.0	468279	response	n/a	201
-458.4717	0.3	469476	stimulus	n/a	45
-458.8066	0.0	469819	response	n/a	202
-459.9883	0.3	471029	stimulus	n/a	155
-460.2939	0.0	471342	response	n/a	201
-461.5381	0.3	472616	stimulus	n/a	32
-461.8145	0.0	472899	response	n/a	201
-463.1367	0.3	474253	stimulus	n/a	159
-463.4707	0.0	474595	response	n/a	201
-464.7031	0.3	475857	stimulus	n/a	67
-465.0059	0.0	476167	response	n/a	201
-466.2861	0.3	477478	stimulus	n/a	137
-466.5664	0.0	477765	response	n/a	201
-467.7354	0.3	478962	stimulus	n/a	16
-468.1025	0.0	479338	response	n/a	201
-469.2354	0.3	480498	stimulus	n/a	161
-469.5898	0.0	480861	response	n/a	202
-470.8008	0.3	482101	stimulus	n/a	15
-471.0781	0.0	482385	response	n/a	201
-472.3174	0.3	483654	stimulus	n/a	49
-472.6699	0.0	484015	response	n/a	202
-473.7666	0.3	485138	stimulus	n/a	122
-474.0537	0.0	485432	response	n/a	201
-475.1660	0.3	486571	stimulus	n/a	169
-475.4941	0.0	486907	response	n/a	201
-476.6318	0.3	488072	stimulus	n/a	39
-476.9824	0.0	488431	response	n/a	201
-478.0488	0.3	489523	stimulus	n/a	14
-478.4297	0.0	489913	response	n/a	201
-479.4814	0.3	490990	stimulus	n/a	68
-479.7979	0.0	491314	response	n/a	201
-481.0303	0.3	492576	stimulus	n/a	8
-481.3662	0.0	492920	response	n/a	201
-482.4805	0.3	494061	stimulus	n/a	154
-482.8779	0.0	494468	response	n/a	201
-496.1582	0.3	508067	stimulus	n/a	134
-496.5977	0.0	508517	response	n/a	201
-497.6416	0.3	509586	stimulus	n/a	141
-498.0293	0.0	509983	response	n/a	201
-499.2246	0.3	511207	stimulus	n/a	6
-499.5576	0.0	511548	response	n/a	201
-500.8066	0.3	512827	stimulus	n/a	18
-501.0615	0.0	513088	response	n/a	201
-502.3232	0.3	514380	stimulus	n/a	61
-502.6611	0.0	514726	response	n/a	201
-503.7891	0.3	515881	stimulus	n/a	69
-504.1416	0.0	516242	response	n/a	201
-505.3555	0.3	517485	stimulus	n/a	41
-505.7090	0.0	517847	response	n/a	201
-506.8213	0.3	518986	stimulus	n/a	121
-507.1816	0.0	519355	response	n/a	201
-508.3711	0.3	520573	stimulus	n/a	179
-508.6855	0.0	520895	response	n/a	201
-509.8203	0.3	522057	stimulus	n/a	119
-510.1572	0.0	522402	response	n/a	201
-511.3867	0.3	523661	stimulus	n/a	118
-511.6855	0.0	523967	response	n/a	201
-512.9189	0.3	525230	stimulus	n/a	175
-513.2451	0.0	525564	response	n/a	201
-514.4521	0.3	526800	stimulus	n/a	164
-514.7812	0.0	527137	response	n/a	201
-515.9512	0.3	528335	stimulus	n/a	4
-516.4297	0.0	528825	response	n/a	201
-517.4512	0.3	529871	stimulus	n/a	37
-517.8057	0.0	530234	response	n/a	202
-518.9004	0.3	531355	stimulus	n/a	56
-519.3408	0.0	531806	response	n/a	201
-520.3330	0.3	532822	stimulus	n/a	174
-520.8047	0.0	533305	response	n/a	201
-521.7832	0.3	534307	stimulus	n/a	27
-522.3008	0.0	534837	response	n/a	201
-523.3818	0.3	535944	stimulus	n/a	10
-523.7568	0.0	536328	response	n/a	201
-524.8486	0.3	537446	stimulus	n/a	79
-525.3330	0.0	537942	response	n/a	201
-526.3145	0.3	538947	stimulus	n/a	124
-526.6934	0.0	539335	response	n/a	202
-527.8643	0.3	540534	stimulus	n/a	101
-528.3174	0.0	540998	response	n/a	201
-529.3633	0.3	542069	stimulus	n/a	133
-529.8047	0.0	542521	response	n/a	201
-530.9297	0.3	543673	stimulus	n/a	172
-531.3652	0.0	544119	response	n/a	201
-532.3291	0.3	545106	stimulus	n/a	115
-532.8369	0.0	545626	response	n/a	201
-533.9121	0.3	546727	stimulus	n/a	106
-534.2686	0.0	547092	response	n/a	201
-535.3613	0.3	548211	stimulus	n/a	113
-535.6924	0.0	548550	response	n/a	201
-536.7939	0.3	549678	stimulus	n/a	35
-537.2051	0.0	550099	response	n/a	201
-538.2773	0.3	551197	stimulus	n/a	114
-538.6846	0.0	551614	response	n/a	201
-539.6934	0.3	552647	stimulus	n/a	127
-540.0771	0.0	553040	response	n/a	201
-541.1758	0.3	554165	stimulus	n/a	147
-541.5244	0.0	554522	response	n/a	201
-542.7422	0.3	555769	stimulus	n/a	12
-543.1250	0.0	556161	response	n/a	201
-544.3418	0.3	557407	stimulus	n/a	21
-544.6367	0.0	557709	response	n/a	201
-545.8574	0.3	558959	stimulus	n/a	138
-546.2207	0.0	559331	response	n/a	201
-547.3066	0.3	560443	stimulus	n/a	130
-547.6523	0.0	560797	response	n/a	201
-548.7900	0.3	561962	stimulus	n/a	111
-549.0928	0.0	562272	response	n/a	201
-550.2061	0.3	563412	stimulus	n/a	9
-550.5488	0.0	563763	response	n/a	201
-551.6055	0.3	564845	stimulus	n/a	59
-552.1006	0.0	565352	response	n/a	201
-553.1719	0.3	566449	stimulus	n/a	128
-553.5967	0.0	566884	response	n/a	201
-554.6709	0.3	567984	stimulus	n/a	104
-555.2686	0.0	568596	response	n/a	201
+onset	duration	sample	trial_type	stim_file	value	event_type
+6.3037	0.0	6456	response	n/a	202	incorrect_response
+10.8154	0.0	11076	response	n/a	202	incorrect_response
+15.0137	0.3	15375	stimulus	n/a	173	scrambled_car
+15.4639	0.0	15836	response	n/a	201	correct_response
+16.4961	0.3	16893	stimulus	n/a	17	face
+16.8242	0.0	17229	response	n/a	201	correct_response
+18.0293	0.3	18463	stimulus	n/a	105	scrambled_face
+18.3994	0.0	18842	response	n/a	201	correct_response
+19.5117	0.3	19981	stimulus	n/a	76	car
+19.8633	0.0	20341	response	n/a	201	correct_response
+21.0947	0.3	21602	stimulus	n/a	2	face
+21.416	0.0	21931	response	n/a	201	correct_response
+22.6445	0.3	23189	stimulus	n/a	106	scrambled_face
+23.0635	0.0	23618	response	n/a	201	correct_response
+24.1602	0.3	24741	stimulus	n/a	62	car
+24.5273	0.0	25117	response	n/a	201	correct_response
+25.6094	0.3	26225	stimulus	n/a	171	scrambled_car
+25.9512	0.0	26575	response	n/a	202	incorrect_response
+27.1758	0.3	27829	stimulus	n/a	143	scrambled_car
+27.5439	0.0	28206	response	n/a	201	correct_response
+28.625	0.3	29313	stimulus	n/a	80	car
+28.96	0.0	29656	response	n/a	201	correct_response
+30.1582	0.3	30883	stimulus	n/a	102	scrambled_face
+30.5195	0.0	31253	response	n/a	201	correct_response
+31.708	0.3	32470	stimulus	n/a	16	face
+32.0635	0.0	32834	response	n/a	201	correct_response
+33.1904	0.3	33988	stimulus	n/a	40	face
+33.543	0.0	34349	response	n/a	201	correct_response
+34.623	0.3	35455	stimulus	n/a	11	face
+35.0156	0.0	35857	response	n/a	201	correct_response
+36.0732	0.3	36940	stimulus	n/a	73	car
+36.415	0.0	37290	response	n/a	202	incorrect_response
+37.5059	0.3	38407	stimulus	n/a	28	face
+37.8877	0.0	38798	response	n/a	201	correct_response
+39.0381	0.3	39976	stimulus	n/a	23	face
+39.3828	0.0	40329	response	n/a	201	correct_response
+40.5215	0.3	41495	stimulus	n/a	152	scrambled_car
+40.8955	0.0	41878	response	n/a	201	correct_response
+42.0371	0.3	43047	stimulus	n/a	47	car
+42.3994	0.0	43418	response	n/a	201	correct_response
+43.5869	0.3	44634	stimulus	n/a	60	car
+43.9189	0.0	44974	response	n/a	201	correct_response
+45.1533	0.3	46238	stimulus	n/a	72	car
+45.4707	0.0	46563	response	n/a	201	correct_response
+46.6523	0.3	47773	stimulus	n/a	42	car
+46.959	0.0	48087	response	n/a	201	correct_response
+48.1514	0.3	49308	stimulus	n/a	141	scrambled_car
+48.5195	0.0	49685	response	n/a	202	incorrect_response
+49.6182	0.3	50810	stimulus	n/a	29	face
+50.0146	0.0	51216	response	n/a	201	correct_response
+51.0342	0.3	52260	stimulus	n/a	177	scrambled_car
+51.4551	0.0	52691	response	n/a	201	correct_response
+52.584	0.3	53847	stimulus	n/a	124	scrambled_face
+52.999	0.0	54272	response	n/a	201	correct_response
+54.1494	0.3	55450	stimulus	n/a	13	face
+54.4785	0.0	55787	response	n/a	201	correct_response
+55.6992	0.3	57037	stimulus	n/a	174	scrambled_car
+56.0469	0.0	57393	response	n/a	201	correct_response
+57.1152	0.3	58487	stimulus	n/a	21	face
+57.4873	0.0	58868	response	n/a	201	correct_response
+58.6318	0.3	60040	stimulus	n/a	113	scrambled_face
+59.0146	0.0	60432	response	n/a	201	correct_response
+60.1309	0.3	61575	stimulus	n/a	7	face
+60.4551	0.0	61907	response	n/a	201	correct_response
+61.6807	0.3	63162	stimulus	n/a	38	face
+61.999	0.0	63488	response	n/a	201	correct_response
+63.1797	0.3	64697	stimulus	n/a	151	scrambled_car
+63.543	0.0	65069	response	n/a	201	correct_response
+64.6289	0.3	66181	stimulus	n/a	145	scrambled_car
+64.9746	0.0	66535	response	n/a	202	incorrect_response
+66.1289	0.3	67717	stimulus	n/a	155	scrambled_car
+66.4707	0.0	68067	response	n/a	201	correct_response
+67.6777	0.3	69303	stimulus	n/a	69	car
+68.0146	0.0	69648	response	n/a	201	correct_response
+69.2773	0.3	70941	stimulus	n/a	103	scrambled_face
+69.7266	0.0	71401	response	n/a	201	correct_response
+70.7441	0.3	72443	stimulus	n/a	4	face
+71.1504	0.0	72859	response	n/a	201	correct_response
+72.3428	0.3	74080	stimulus	n/a	1	face
+72.7109	0.0	74457	response	n/a	201	correct_response
+73.7764	0.3	75548	stimulus	n/a	14	face
+74.0947	0.0	75874	response	n/a	201	correct_response
+82.2559	0.3	84231	stimulus	n/a	125	scrambled_face
+82.9502	0.0	84942	response	n/a	201	correct_response
+83.7559	0.3	85767	stimulus	n/a	104	scrambled_face
+84.126	0.0	86146	response	n/a	201	correct_response
+85.2881	0.3	87336	stimulus	n/a	167	scrambled_car
+85.6543	0.0	87711	response	n/a	201	correct_response
+86.6885	0.3	88770	stimulus	n/a	150	scrambled_car
+87.0459	0.0	89136	response	n/a	201	correct_response
+88.1045	0.3	90220	stimulus	n/a	49	car
+88.3906	0.0	90513	response	n/a	201	correct_response
+89.6699	0.3	91823	stimulus	n/a	52	car
+90.0059	0.0	92167	response	n/a	201	correct_response
+91.2529	0.3	93444	stimulus	n/a	127	scrambled_face
+91.71	0.0	93912	response	n/a	201	correct_response
+92.6689	0.3	94894	stimulus	n/a	65	car
+93.0381	0.0	95272	response	n/a	201	correct_response
+94.1357	0.3	96396	stimulus	n/a	64	car
+94.4863	0.0	96755	response	n/a	201	correct_response
+95.6514	0.3	97948	stimulus	n/a	153	scrambled_car
+96.0059	0.0	98311	response	n/a	201	correct_response
+97.168	0.3	99501	stimulus	n/a	118	scrambled_face
+97.5098	0.0	99851	response	n/a	201	correct_response
+98.75	0.3	101121	stimulus	n/a	137	scrambled_face
+99.0625	0.0	101441	response	n/a	201	correct_response
+100.3496	0.3	102759	stimulus	n/a	18	face
+100.71	0.0	103128	response	n/a	201	correct_response
+101.8164	0.3	104261	stimulus	n/a	162	scrambled_car
+102.1416	0.0	104594	response	n/a	201	correct_response
+103.2656	0.3	105745	stimulus	n/a	35	face
+103.5742	0.0	106061	response	n/a	201	correct_response
+104.8486	0.3	107366	stimulus	n/a	59	car
+105.1982	0.0	107724	response	n/a	202	incorrect_response
+106.3809	0.3	108935	stimulus	n/a	25	face
+106.75	0.0	109313	response	n/a	201	correct_response
+107.9639	0.3	110556	stimulus	n/a	66	car
+108.334	0.0	110935	response	n/a	202	incorrect_response
+109.4795	0.3	112108	stimulus	n/a	157	scrambled_car
+109.9014	0.0	112540	response	n/a	201	correct_response
+110.9463	0.3	113610	stimulus	n/a	108	scrambled_face
+111.3018	0.0	113974	response	n/a	201	correct_response
+112.3955	0.3	115094	stimulus	n/a	36	face
+112.7822	0.0	115490	response	n/a	201	correct_response
+113.9785	0.3	116715	stimulus	n/a	12	face
+114.2939	0.0	117038	response	n/a	201	correct_response
+115.4941	0.3	118267	stimulus	n/a	70	car
+115.8457	0.0	118627	response	n/a	201	correct_response
+116.9277	0.3	119735	stimulus	n/a	3	face
+117.3418	0.0	120159	response	n/a	201	correct_response
+118.4766	0.3	121321	stimulus	n/a	154	scrambled_car
+118.8379	0.0	121691	response	n/a	201	correct_response
+119.9424	0.3	122822	stimulus	n/a	180	scrambled_car
+120.2852	0.0	123173	response	n/a	201	correct_response
+121.3926	0.3	124307	stimulus	n/a	119	scrambled_face
+121.9092	0.0	124836	response	n/a	201	correct_response
+122.9414	0.3	125893	stimulus	n/a	163	scrambled_car
+123.2939	0.0	126254	response	n/a	201	correct_response
+124.4746	0.3	127463	stimulus	n/a	175	scrambled_car
+124.7979	0.0	127794	response	n/a	201	correct_response
+125.9238	0.3	128947	stimulus	n/a	68	car
+126.3252	0.0	129358	response	n/a	201	correct_response
+127.3398	0.3	130397	stimulus	n/a	133	scrambled_face
+127.7012	0.0	130767	response	n/a	202	incorrect_response
+128.7568	0.3	131848	stimulus	n/a	179	scrambled_car
+129.2051	0.0	132307	response	n/a	201	correct_response
+130.3223	0.3	133451	stimulus	n/a	166	scrambled_car
+130.6377	0.0	133774	response	n/a	201	correct_response
+131.8555	0.3	135021	stimulus	n/a	79	car
+132.3574	0.0	135535	response	n/a	201	correct_response
+133.3711	0.3	136573	stimulus	n/a	27	face
+133.7256	0.0	136936	response	n/a	201	correct_response
+134.9375	0.3	138177	stimulus	n/a	48	car
+135.3096	0.0	138558	response	n/a	202	incorrect_response
+136.5205	0.3	139798	stimulus	n/a	114	scrambled_face
+136.8535	0.0	140139	response	n/a	201	correct_response
+138.0527	0.3	141367	stimulus	n/a	55	car
+138.4531	0.0	141777	response	n/a	201	correct_response
+139.4521	0.3	142800	stimulus	n/a	172	scrambled_car
+139.8135	0.0	143170	response	n/a	202	incorrect_response
+140.9355	0.3	144319	stimulus	n/a	160	scrambled_car
+141.4053	0.0	144800	response	n/a	201	correct_response
+150.5654	0.3	154180	stimulus	n/a	57	car
+151.0771	0.0	154704	response	n/a	201	correct_response
+152.1484	0.3	155801	stimulus	n/a	178	scrambled_car
+152.5488	0.0	156211	response	n/a	201	correct_response
+153.7305	0.3	157421	stimulus	n/a	41	car
+154.2207	0.0	157923	response	n/a	201	correct_response
+155.1807	0.3	158906	stimulus	n/a	43	car
+155.541	0.0	159275	response	n/a	201	correct_response
+156.7793	0.3	160543	stimulus	n/a	144	scrambled_car
+157.1484	0.0	160921	response	n/a	201	correct_response
+158.1963	0.3	161994	stimulus	n/a	74	car
+158.7168	0.0	162527	response	n/a	201	correct_response
+159.6787	0.3	163512	stimulus	n/a	56	car
+160.0605	0.0	163903	response	n/a	201	correct_response
+161.0781	0.3	164945	stimulus	n/a	15	face
+161.4766	0.0	165353	response	n/a	202	incorrect_response
+162.6445	0.3	166549	stimulus	n/a	158	scrambled_car
+162.9971	0.0	166910	response	n/a	201	correct_response
+164.21	0.3	168152	stimulus	n/a	31	face
+164.5889	0.0	168540	response	n/a	201	correct_response
+165.6602	0.3	169637	stimulus	n/a	24	face
+165.9971	0.0	169982	response	n/a	201	correct_response
+167.2422	0.3	171257	stimulus	n/a	136	scrambled_face
+167.7568	0.0	171784	response	n/a	201	correct_response
+168.7422	0.3	172793	stimulus	n/a	156	scrambled_car
+169.1328	0.0	173193	response	n/a	201	correct_response
+170.292	0.3	174380	stimulus	n/a	138	scrambled_face
+170.6289	0.0	174725	response	n/a	201	correct_response
+171.708	0.3	175830	stimulus	n/a	130	scrambled_face
+171.9961	0.0	176125	response	n/a	201	correct_response
+173.207	0.3	177365	stimulus	n/a	78	car
+173.5801	0.0	177747	response	n/a	201	correct_response
+174.79	0.3	178986	stimulus	n/a	32	face
+175.1406	0.0	179345	response	n/a	201	correct_response
+176.2891	0.3	180521	stimulus	n/a	164	scrambled_car
+176.6201	0.0	180860	response	n/a	201	correct_response
+177.7061	0.3	181972	stimulus	n/a	107	scrambled_face
+178.1006	0.0	182376	response	n/a	201	correct_response
+179.2217	0.3	183524	stimulus	n/a	67	car
+179.5879	0.0	183899	response	n/a	201	correct_response
+180.6875	0.3	185025	stimulus	n/a	19	face
+181.0439	0.0	185390	response	n/a	201	correct_response
+182.1875	0.3	186561	stimulus	n/a	126	scrambled_face
+182.5078	0.0	186889	response	n/a	201	correct_response
+183.7197	0.3	188130	stimulus	n/a	50	car
+184.0762	0.0	188495	response	n/a	201	correct_response
+185.1699	0.3	189615	stimulus	n/a	77	car
+185.5645	0.0	190019	response	n/a	201	correct_response
+186.7188	0.3	191201	stimulus	n/a	39	face
+187.0205	0.0	191510	response	n/a	201	correct_response
+188.3184	0.3	192839	stimulus	n/a	53	car
+188.6523	0.0	193181	response	n/a	201	correct_response
+189.8018	0.3	194358	stimulus	n/a	169	scrambled_car
+190.1963	0.0	194762	response	n/a	201	correct_response
+191.4004	0.3	195995	stimulus	n/a	168	scrambled_car
+191.708	0.0	196310	response	n/a	201	correct_response
+192.8672	0.3	197497	stimulus	n/a	20	face
+193.2441	0.0	197883	response	n/a	201	correct_response
+194.3496	0.3	199015	stimulus	n/a	10	face
+194.7158	0.0	199390	response	n/a	201	correct_response
+195.916	0.3	200619	stimulus	n/a	159	scrambled_car
+196.2598	0.0	200971	response	n/a	202	incorrect_response
+197.498	0.3	202239	stimulus	n/a	115	scrambled_face
+197.9316	0.0	202683	response	n/a	201	correct_response
+199.0479	0.3	203826	stimulus	n/a	148	scrambled_car
+199.3877	0.0	204174	response	n/a	201	correct_response
+200.5811	0.3	205396	stimulus	n/a	33	face
+200.876	0.0	205698	response	n/a	201	correct_response
+201.9971	0.3	206846	stimulus	n/a	71	car
+202.3154	0.0	207172	response	n/a	201	correct_response
+203.5635	0.3	208450	stimulus	n/a	129	scrambled_face
+203.8916	0.0	208786	response	n/a	201	correct_response
+205.0791	0.3	210002	stimulus	n/a	112	scrambled_face
+205.4355	0.0	210367	response	n/a	201	correct_response
+206.4951	0.3	211452	stimulus	n/a	165	scrambled_car
+206.8682	0.0	211834	response	n/a	201	correct_response
+208.0117	0.3	213005	stimulus	n/a	22	face
+208.3955	0.0	213398	response	n/a	201	correct_response
+209.5605	0.3	214591	stimulus	n/a	142	scrambled_car
+209.8994	0.0	214938	response	n/a	201	correct_response
+217.1582	0.3	222371	stimulus	n/a	9	face
+217.8271	0.0	223056	response	n/a	201	correct_response
+218.5908	0.3	223838	stimulus	n/a	123	scrambled_face
+219.0273	0.0	224285	response	n/a	201	correct_response
+219.9902	0.3	225271	stimulus	n/a	45	car
+220.4512	0.0	225743	response	n/a	201	correct_response
+221.5068	0.3	226824	stimulus	n/a	37	face
+221.8672	0.0	227193	response	n/a	202	incorrect_response
+222.9727	0.3	228325	stimulus	n/a	5	face
+223.4189	0.0	228782	response	n/a	201	correct_response
+224.4219	0.3	229809	stimulus	n/a	121	scrambled_face
+224.8438	0.0	230241	response	n/a	201	correct_response
+225.8555	0.3	231277	stimulus	n/a	116	scrambled_face
+226.1953	0.0	231625	response	n/a	201	correct_response
+227.3047	0.3	232761	stimulus	n/a	161	scrambled_car
+227.6836	0.0	233149	response	n/a	201	correct_response
+228.8711	0.3	234365	stimulus	n/a	134	scrambled_face
+229.2275	0.0	234730	response	n/a	201	correct_response
+230.4697	0.3	236002	stimulus	n/a	170	scrambled_car
+230.8271	0.0	236368	response	n/a	201	correct_response
+231.9863	0.3	237555	stimulus	n/a	61	car
+232.3389	0.0	237916	response	n/a	201	correct_response
+233.4355	0.3	239039	stimulus	n/a	132	scrambled_face
+233.7637	0.0	239375	response	n/a	202	incorrect_response
+235.0352	0.3	240677	stimulus	n/a	63	car
+235.5469	0.0	241201	response	n/a	201	correct_response
+236.501	0.3	242178	stimulus	n/a	75	car
+236.8594	0.0	242545	response	n/a	201	correct_response
+237.9512	0.3	243663	stimulus	n/a	51	car
+238.2676	0.0	243987	response	n/a	201	correct_response
+239.4502	0.3	245198	stimulus	n/a	135	scrambled_face
+239.7949	0.0	245551	response	n/a	201	correct_response
+240.8496	0.3	246631	stimulus	n/a	54	car
+241.2188	0.0	247009	response	n/a	202	incorrect_response
+242.4326	0.3	248252	stimulus	n/a	147	scrambled_car
+242.7393	0.0	248566	response	n/a	201	correct_response
+243.9482	0.3	249804	stimulus	n/a	131	scrambled_face
+244.3389	0.0	250204	response	n/a	201	correct_response
+245.3818	0.3	251272	stimulus	n/a	120	scrambled_face
+245.707	0.0	251605	response	n/a	201	correct_response
+246.9639	0.3	252892	stimulus	n/a	117	scrambled_face
+247.3066	0.0	253243	response	n/a	201	correct_response
+248.4805	0.3	254445	stimulus	n/a	139	scrambled_face
+248.7949	0.0	254767	response	n/a	201	correct_response
+249.9297	0.3	255929	stimulus	n/a	58	car
+250.3145	0.0	256323	response	n/a	201	correct_response
+251.3789	0.3	257413	stimulus	n/a	44	car
+251.7471	0.0	257790	response	n/a	201	correct_response
+252.9287	0.3	259000	stimulus	n/a	46	car
+253.251	0.0	259330	response	n/a	201	correct_response
+254.4619	0.3	260570	stimulus	n/a	109	scrambled_face
+254.835	0.0	260952	response	n/a	201	correct_response
+255.9941	0.3	262139	stimulus	n/a	65	car
+256.3145	0.0	262467	response	n/a	202	incorrect_response
+257.4102	0.3	263589	stimulus	n/a	176	scrambled_car
+257.8105	0.0	263999	response	n/a	201	correct_response
+258.8438	0.3	265057	stimulus	n/a	50	car
+259.3311	0.0	265556	response	n/a	201	correct_response
+260.376	0.3	266626	stimulus	n/a	8	face
+260.835	0.0	267096	response	n/a	202	incorrect_response
+261.9092	0.3	268196	stimulus	n/a	53	car
+262.4102	0.0	268709	response	n/a	201	correct_response
+263.3584	0.3	269680	stimulus	n/a	34	face
+263.7227	0.0	270053	response	n/a	201	correct_response
+264.874	0.3	271232	stimulus	n/a	30	face
+265.2266	0.0	271593	response	n/a	201	correct_response
+266.4736	0.3	272870	stimulus	n/a	73	car
+266.9141	0.0	273321	response	n/a	201	correct_response
+268.04	0.3	274474	stimulus	n/a	111	scrambled_face
+268.5547	0.0	275001	response	n/a	201	correct_response
+269.6064	0.3	276078	stimulus	n/a	26	face
+270.1309	0.0	276615	response	n/a	201	correct_response
+271.1885	0.3	277698	stimulus	n/a	51	car
+271.8984	0.0	278425	response	n/a	201	correct_response
+272.7051	0.3	279251	stimulus	n/a	6	face
+273.1465	0.0	279703	response	n/a	201	correct_response
+274.2207	0.3	280803	stimulus	n/a	101	scrambled_face
+274.6504	0.0	281243	response	n/a	201	correct_response
+275.7539	0.3	282373	stimulus	n/a	70	car
+276.1064	0.0	282734	response	n/a	201	correct_response
+286.5996	0.3	293479	stimulus	n/a	19	face
+287.0264	0.0	293916	response	n/a	201	correct_response
+288.1494	0.3	295066	stimulus	n/a	122	scrambled_face
+288.5137	0.0	295439	response	n/a	201	correct_response
+289.5986	0.3	296550	stimulus	n/a	31	face
+289.9141	0.0	296873	response	n/a	201	correct_response
+291.165	0.3	298154	stimulus	n/a	146	scrambled_car
+291.5381	0.0	298536	response	n/a	201	correct_response
+292.6816	0.3	299707	stimulus	n/a	23	face
+292.9541	0.0	299986	response	n/a	201	correct_response
+294.2637	0.3	301327	stimulus	n/a	140	scrambled_face
+294.6104	0.0	301682	response	n/a	201	correct_response
+295.7305	0.3	302829	stimulus	n/a	80	car
+296.2021	0.0	303312	response	n/a	201	correct_response
+297.1299	0.3	304262	stimulus	n/a	128	scrambled_face
+297.4902	0.0	304631	response	n/a	201	correct_response
+298.5791	0.3	305746	stimulus	n/a	5	face
+298.9219	0.0	306097	response	n/a	201	correct_response
+300.0283	0.3	307230	stimulus	n/a	110	scrambled_face
+300.3379	0.0	307547	response	n/a	201	correct_response
+301.5947	0.3	308834	stimulus	n/a	149	scrambled_car
+301.8975	0.0	309144	response	n/a	202	incorrect_response
+303.0107	0.3	310284	stimulus	n/a	64	car
+303.4336	0.0	310717	response	n/a	201	correct_response
+304.4268	0.3	311734	stimulus	n/a	148	scrambled_car
+304.8896	0.0	312208	response	n/a	201	correct_response
+305.96	0.3	313304	stimulus	n/a	47	car
+306.29	0.0	313642	response	n/a	201	correct_response
+307.5596	0.3	314942	stimulus	n/a	135	scrambled_face
+307.8896	0.0	315280	response	n/a	202	incorrect_response
+309.0586	0.3	316477	stimulus	n/a	142	scrambled_car
+309.5215	0.0	316951	response	n/a	201	correct_response
+310.4746	0.3	317927	stimulus	n/a	44	car
+310.8574	0.0	318319	response	n/a	201	correct_response
+311.9248	0.3	319412	stimulus	n/a	109	scrambled_face
+312.2734	0.0	319769	response	n/a	201	correct_response
+313.3906	0.3	320913	stimulus	n/a	178	scrambled_car
+313.7852	0.0	321317	response	n/a	201	correct_response
+314.873	0.3	322431	stimulus	n/a	110	scrambled_face
+315.1855	0.0	322751	response	n/a	201	correct_response
+316.3896	0.3	323984	stimulus	n/a	62	car
+316.7139	0.0	324316	response	n/a	201	correct_response
+317.8721	0.3	325502	stimulus	n/a	40	face
+318.3213	0.0	325962	response	n/a	201	correct_response
+319.3047	0.3	326969	stimulus	n/a	29	face
+319.625	0.0	327297	response	n/a	201	correct_response
+320.8213	0.3	328522	stimulus	n/a	78	car
+321.1533	0.0	328862	response	n/a	201	correct_response
+322.4209	0.3	330160	stimulus	n/a	22	face
+322.7773	0.0	330525	response	n/a	201	correct_response
+324.0029	0.3	331780	stimulus	n/a	177	scrambled_car
+324.2969	0.0	332081	response	n/a	201	correct_response
+325.4863	0.3	333299	stimulus	n/a	162	scrambled_car
+325.833	0.0	333654	response	n/a	201	correct_response
+327.0361	0.3	334886	stimulus	n/a	165	scrambled_car
+327.3613	0.0	335219	response	n/a	202	incorrect_response
+328.5352	0.3	336421	stimulus	n/a	3	face
+328.9287	0.0	336824	response	n/a	201	correct_response
+329.9512	0.3	337871	stimulus	n/a	26	face
+330.2891	0.0	338217	response	n/a	201	correct_response
+331.4844	0.3	339441	stimulus	n/a	13	face
+331.8008	0.0	339765	response	n/a	201	correct_response
+332.9834	0.3	340976	stimulus	n/a	102	scrambled_face
+333.4414	0.0	341445	response	n/a	201	correct_response
+334.4492	0.3	342477	stimulus	n/a	144	scrambled_car
+334.833	0.0	342870	response	n/a	201	correct_response
+335.9824	0.3	344047	stimulus	n/a	57	car
+336.3447	0.0	344418	response	n/a	201	correct_response
+337.4482	0.3	345548	stimulus	n/a	112	scrambled_face
+337.8809	0.0	345991	response	n/a	201	correct_response
+338.9648	0.3	347101	stimulus	n/a	168	scrambled_car
+339.2812	0.0	347425	response	n/a	201	correct_response
+340.5479	0.3	348722	stimulus	n/a	60	car
+340.9932	0.0	349178	response	n/a	201	correct_response
+342.0635	0.3	350274	stimulus	n/a	75	car
+342.3926	0.0	350611	response	n/a	201	correct_response
+343.5801	0.3	351827	stimulus	n/a	25	face
+343.9688	0.0	352225	response	n/a	201	correct_response
+345.1787	0.3	353464	stimulus	n/a	52	car
+345.5127	0.0	353806	response	n/a	201	correct_response
+356.3252	0.3	364878	stimulus	n/a	173	scrambled_car
+356.8564	0.0	365422	response	n/a	202	incorrect_response
+357.8076	0.3	366396	stimulus	n/a	58	car
+358.1367	0.0	366733	response	n/a	201	correct_response
+359.3574	0.3	367983	stimulus	n/a	143	scrambled_car
+359.9209	0.0	368560	response	n/a	201	correct_response
+360.957	0.3	369621	stimulus	n/a	132	scrambled_face
+361.3604	0.0	370034	response	n/a	202	incorrect_response
+362.3564	0.3	371054	stimulus	n/a	42	car
+362.7285	0.0	371435	response	n/a	201	correct_response
+363.9062	0.3	372641	stimulus	n/a	71	car
+364.3281	0.0	373073	response	n/a	201	correct_response
+365.3389	0.3	374108	stimulus	n/a	176	scrambled_car
+365.8486	0.0	374630	response	n/a	201	correct_response
+366.8213	0.3	375626	stimulus	n/a	166	scrambled_car
+367.2002	0.0	376014	response	n/a	201	correct_response
+368.3379	0.3	377179	stimulus	n/a	170	scrambled_car
+368.6807	0.0	377530	response	n/a	201	correct_response
+369.8701	0.3	378748	stimulus	n/a	48	car
+370.3682	0.0	379258	response	n/a	201	correct_response
+371.4199	0.3	380335	stimulus	n/a	156	scrambled_car
+371.8242	0.0	380749	response	n/a	201	correct_response
+372.8691	0.3	381819	stimulus	n/a	7	face
+373.2402	0.0	382199	response	n/a	201	correct_response
+374.4521	0.3	383440	stimulus	n/a	125	scrambled_face
+374.8643	0.0	383862	response	n/a	201	correct_response
+376.002	0.3	385027	stimulus	n/a	108	scrambled_face
+376.4004	0.0	385435	response	n/a	201	correct_response
+377.418	0.3	386477	stimulus	n/a	1	face
+377.752	0.0	386819	response	n/a	201	correct_response
+378.8672	0.3	387961	stimulus	n/a	116	scrambled_face
+379.2803	0.0	388384	response	n/a	201	correct_response
+380.3662	0.3	389496	stimulus	n/a	157	scrambled_car
+380.6797	0.0	389817	response	n/a	201	correct_response
+381.9492	0.3	391117	stimulus	n/a	76	car
+382.3037	0.0	391480	response	n/a	201	correct_response
+383.4326	0.3	392636	stimulus	n/a	55	car
+383.8076	0.0	393020	response	n/a	201	correct_response
+384.8486	0.3	394086	stimulus	n/a	123	scrambled_face
+385.2158	0.0	394462	response	n/a	201	correct_response
+386.3477	0.3	395621	stimulus	n/a	74	car
+386.7041	0.0	395986	response	n/a	201	correct_response
+387.7803	0.3	397088	stimulus	n/a	107	scrambled_face
+388.2637	0.0	397583	response	n/a	201	correct_response
+389.2803	0.3	398624	stimulus	n/a	54	car
+389.6074	0.0	398959	response	n/a	201	correct_response
+390.8467	0.3	400228	stimulus	n/a	43	car
+391.1602	0.0	400549	response	n/a	201	correct_response
+392.3125	0.3	401729	stimulus	n/a	129	scrambled_face
+392.7041	0.0	402130	response	n/a	201	correct_response
+393.7451	0.3	403196	stimulus	n/a	145	scrambled_car
+394.0957	0.0	403555	response	n/a	202	incorrect_response
+395.1445	0.3	404629	stimulus	n/a	46	car
+395.5117	0.0	405005	response	n/a	201	correct_response
+396.7441	0.3	406267	stimulus	n/a	131	scrambled_face
+397.0879	0.0	406619	response	n/a	201	correct_response
+398.1768	0.3	407734	stimulus	n/a	34	face
+398.5361	0.0	408102	response	n/a	201	correct_response
+399.626	0.3	409218	stimulus	n/a	158	scrambled_car
+400.0479	0.0	409650	response	n/a	201	correct_response
+401.0596	0.3	410686	stimulus	n/a	66	car
+401.4873	0.0	411124	response	n/a	201	correct_response
+402.5918	0.3	412255	stimulus	n/a	150	scrambled_car
+402.96	0.0	412632	response	n/a	201	correct_response
+404.0918	0.3	413791	stimulus	n/a	105	scrambled_face
+404.4561	0.0	414164	response	n/a	201	correct_response
+405.5908	0.3	415326	stimulus	n/a	33	face
+405.9912	0.0	415736	response	n/a	201	correct_response
+407.0234	0.3	416793	stimulus	n/a	77	car
+407.5117	0.0	417293	response	n/a	201	correct_response
+408.5566	0.3	418363	stimulus	n/a	63	car
+408.9512	0.0	418767	response	n/a	201	correct_response
+410.0391	0.3	419881	stimulus	n/a	163	scrambled_car
+410.4238	0.0	420275	response	n/a	202	incorrect_response
+411.4551	0.3	421331	stimulus	n/a	153	scrambled_car
+411.9111	0.0	421798	response	n/a	201	correct_response
+413.0049	0.3	422918	stimulus	n/a	149	scrambled_car
+413.375	0.0	423297	response	n/a	201	correct_response
+414.4873	0.3	424436	stimulus	n/a	2	face
+414.8789	0.0	424837	response	n/a	201	correct_response
+423.3516	0.3	433513	stimulus	n/a	146	scrambled_car
+423.8477	0.0	434021	response	n/a	201	correct_response
+424.8838	0.3	435082	stimulus	n/a	30	face
+425.1836	0.0	435389	response	n/a	201	correct_response
+426.4502	0.3	436686	stimulus	n/a	36	face
+426.8154	0.0	437060	response	n/a	201	correct_response
+428.0332	0.3	438307	stimulus	n/a	136	scrambled_face
+428.4072	0.0	438690	response	n/a	202	incorrect_response
+429.6162	0.3	439928	stimulus	n/a	17	face
+430.0068	0.0	440328	response	n/a	201	correct_response
+431.1152	0.3	441463	stimulus	n/a	72	car
+431.5908	0.0	441950	response	n/a	201	correct_response
+432.5479	0.3	442930	stimulus	n/a	11	face
+432.9111	0.0	443302	response	n/a	201	correct_response
+434.0977	0.3	444517	stimulus	n/a	152	scrambled_car
+434.5273	0.0	444957	response	n/a	201	correct_response
+435.5137	0.3	445967	stimulus	n/a	28	face
+435.9346	0.0	446398	response	n/a	201	correct_response
+436.9629	0.3	447451	stimulus	n/a	171	scrambled_car
+437.3193	0.0	447816	response	n/a	201	correct_response
+438.4795	0.3	449004	stimulus	n/a	38	face
+438.8232	0.0	449356	response	n/a	201	correct_response
+440.0117	0.3	450573	stimulus	n/a	160	scrambled_car
+440.3828	0.0	450953	response	n/a	201	correct_response
+441.5615	0.3	452160	stimulus	n/a	140	scrambled_face
+441.8711	0.0	452477	response	n/a	201	correct_response
+443.1445	0.3	453781	stimulus	n/a	167	scrambled_car
+443.5508	0.0	454197	response	n/a	201	correct_response
+444.7266	0.3	455401	stimulus	n/a	120	scrambled_face
+445.0791	0.0	455762	response	n/a	201	correct_response
+446.1768	0.3	456886	stimulus	n/a	117	scrambled_face
+446.5107	0.0	457228	response	n/a	201	correct_response
+447.6924	0.3	458438	stimulus	n/a	24	face
+447.959	0.0	458711	response	n/a	201	correct_response
+449.209	0.3	459991	stimulus	n/a	103	scrambled_face
+449.5029	0.0	460292	response	n/a	201	correct_response
+450.708	0.3	461526	stimulus	n/a	126	scrambled_face
+451.0869	0.0	461914	response	n/a	201	correct_response
+452.2744	0.3	463130	stimulus	n/a	180	scrambled_car
+452.6387	0.0	463503	response	n/a	201	correct_response
+453.7568	0.3	464648	stimulus	n/a	20	face
+454.0947	0.0	464994	response	n/a	201	correct_response
+455.3564	0.3	466286	stimulus	n/a	139	scrambled_face
+455.6465	0.0	466583	response	n/a	201	correct_response
+456.9395	0.3	467907	stimulus	n/a	151	scrambled_car
+457.3027	0.0	468279	response	n/a	201	correct_response
+458.4717	0.3	469476	stimulus	n/a	45	car
+458.8066	0.0	469819	response	n/a	202	incorrect_response
+459.9883	0.3	471029	stimulus	n/a	155	scrambled_car
+460.2939	0.0	471342	response	n/a	201	correct_response
+461.5381	0.3	472616	stimulus	n/a	32	face
+461.8145	0.0	472899	response	n/a	201	correct_response
+463.1367	0.3	474253	stimulus	n/a	159	scrambled_car
+463.4707	0.0	474595	response	n/a	201	correct_response
+464.7031	0.3	475857	stimulus	n/a	67	car
+465.0059	0.0	476167	response	n/a	201	correct_response
+466.2861	0.3	477478	stimulus	n/a	137	scrambled_face
+466.5664	0.0	477765	response	n/a	201	correct_response
+467.7354	0.3	478962	stimulus	n/a	16	face
+468.1025	0.0	479338	response	n/a	201	correct_response
+469.2354	0.3	480498	stimulus	n/a	161	scrambled_car
+469.5898	0.0	480861	response	n/a	202	incorrect_response
+470.8008	0.3	482101	stimulus	n/a	15	face
+471.0781	0.0	482385	response	n/a	201	correct_response
+472.3174	0.3	483654	stimulus	n/a	49	car
+472.6699	0.0	484015	response	n/a	202	incorrect_response
+473.7666	0.3	485138	stimulus	n/a	122	scrambled_face
+474.0537	0.0	485432	response	n/a	201	correct_response
+475.166	0.3	486571	stimulus	n/a	169	scrambled_car
+475.4941	0.0	486907	response	n/a	201	correct_response
+476.6318	0.3	488072	stimulus	n/a	39	face
+476.9824	0.0	488431	response	n/a	201	correct_response
+478.0488	0.3	489523	stimulus	n/a	14	face
+478.4297	0.0	489913	response	n/a	201	correct_response
+479.4814	0.3	490990	stimulus	n/a	68	car
+479.7979	0.0	491314	response	n/a	201	correct_response
+481.0303	0.3	492576	stimulus	n/a	8	face
+481.3662	0.0	492920	response	n/a	201	correct_response
+482.4805	0.3	494061	stimulus	n/a	154	scrambled_car
+482.8779	0.0	494468	response	n/a	201	correct_response
+496.1582	0.3	508067	stimulus	n/a	134	scrambled_face
+496.5977	0.0	508517	response	n/a	201	correct_response
+497.6416	0.3	509586	stimulus	n/a	141	scrambled_car
+498.0293	0.0	509983	response	n/a	201	correct_response
+499.2246	0.3	511207	stimulus	n/a	6	face
+499.5576	0.0	511548	response	n/a	201	correct_response
+500.8066	0.3	512827	stimulus	n/a	18	face
+501.0615	0.0	513088	response	n/a	201	correct_response
+502.3232	0.3	514380	stimulus	n/a	61	car
+502.6611	0.0	514726	response	n/a	201	correct_response
+503.7891	0.3	515881	stimulus	n/a	69	car
+504.1416	0.0	516242	response	n/a	201	correct_response
+505.3555	0.3	517485	stimulus	n/a	41	car
+505.709	0.0	517847	response	n/a	201	correct_response
+506.8213	0.3	518986	stimulus	n/a	121	scrambled_face
+507.1816	0.0	519355	response	n/a	201	correct_response
+508.3711	0.3	520573	stimulus	n/a	179	scrambled_car
+508.6855	0.0	520895	response	n/a	201	correct_response
+509.8203	0.3	522057	stimulus	n/a	119	scrambled_face
+510.1572	0.0	522402	response	n/a	201	correct_response
+511.3867	0.3	523661	stimulus	n/a	118	scrambled_face
+511.6855	0.0	523967	response	n/a	201	correct_response
+512.9189	0.3	525230	stimulus	n/a	175	scrambled_car
+513.2451	0.0	525564	response	n/a	201	correct_response
+514.4521	0.3	526800	stimulus	n/a	164	scrambled_car
+514.7812	0.0	527137	response	n/a	201	correct_response
+515.9512	0.3	528335	stimulus	n/a	4	face
+516.4297	0.0	528825	response	n/a	201	correct_response
+517.4512	0.3	529871	stimulus	n/a	37	face
+517.8057	0.0	530234	response	n/a	202	incorrect_response
+518.9004	0.3	531355	stimulus	n/a	56	car
+519.3408	0.0	531806	response	n/a	201	correct_response
+520.333	0.3	532822	stimulus	n/a	174	scrambled_car
+520.8047	0.0	533305	response	n/a	201	correct_response
+521.7832	0.3	534307	stimulus	n/a	27	face
+522.3008	0.0	534837	response	n/a	201	correct_response
+523.3818	0.3	535944	stimulus	n/a	10	face
+523.7568	0.0	536328	response	n/a	201	correct_response
+524.8486	0.3	537446	stimulus	n/a	79	car
+525.333	0.0	537942	response	n/a	201	correct_response
+526.3145	0.3	538947	stimulus	n/a	124	scrambled_face
+526.6934	0.0	539335	response	n/a	202	incorrect_response
+527.8643	0.3	540534	stimulus	n/a	101	scrambled_face
+528.3174	0.0	540998	response	n/a	201	correct_response
+529.3633	0.3	542069	stimulus	n/a	133	scrambled_face
+529.8047	0.0	542521	response	n/a	201	correct_response
+530.9297	0.3	543673	stimulus	n/a	172	scrambled_car
+531.3652	0.0	544119	response	n/a	201	correct_response
+532.3291	0.3	545106	stimulus	n/a	115	scrambled_face
+532.8369	0.0	545626	response	n/a	201	correct_response
+533.9121	0.3	546727	stimulus	n/a	106	scrambled_face
+534.2686	0.0	547092	response	n/a	201	correct_response
+535.3613	0.3	548211	stimulus	n/a	113	scrambled_face
+535.6924	0.0	548550	response	n/a	201	correct_response
+536.7939	0.3	549678	stimulus	n/a	35	face
+537.2051	0.0	550099	response	n/a	201	correct_response
+538.2773	0.3	551197	stimulus	n/a	114	scrambled_face
+538.6846	0.0	551614	response	n/a	201	correct_response
+539.6934	0.3	552647	stimulus	n/a	127	scrambled_face
+540.0771	0.0	553040	response	n/a	201	correct_response
+541.1758	0.3	554165	stimulus	n/a	147	scrambled_car
+541.5244	0.0	554522	response	n/a	201	correct_response
+542.7422	0.3	555769	stimulus	n/a	12	face
+543.125	0.0	556161	response	n/a	201	correct_response
+544.3418	0.3	557407	stimulus	n/a	21	face
+544.6367	0.0	557709	response	n/a	201	correct_response
+545.8574	0.3	558959	stimulus	n/a	138	scrambled_face
+546.2207	0.0	559331	response	n/a	201	correct_response
+547.3066	0.3	560443	stimulus	n/a	130	scrambled_face
+547.6523	0.0	560797	response	n/a	201	correct_response
+548.79	0.3	561962	stimulus	n/a	111	scrambled_face
+549.0928	0.0	562272	response	n/a	201	correct_response
+550.2061	0.3	563412	stimulus	n/a	9	face
+550.5488	0.0	563763	response	n/a	201	correct_response
+551.6055	0.3	564845	stimulus	n/a	59	car
+552.1006	0.0	565352	response	n/a	201	correct_response
+553.1719	0.3	566449	stimulus	n/a	128	scrambled_face
+553.5967	0.0	566884	response	n/a	201	correct_response
+554.6709	0.3	567984	stimulus	n/a	104	scrambled_face
+555.2686	0.0	568596	response	n/a	201	correct_response

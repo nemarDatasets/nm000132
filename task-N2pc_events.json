@@ -2,18 +2,30 @@
   "value": {
     "LongName": "Event code value",
     "Levels": {
-	   "-99": "Missing response",
-	   "111": "Stimulus - target blue, target left, gap at top",
-	   "112": "Stimulus - target blue, target left, gap at bottom",
-	   "121": "Stimulus - target blue, target right, gap at top",
-	   "122": "Stimulus - target blue, target right, gap at bottom",
-	   "211": "Stimulus - target pink, target left, gap at top",
-	   "212": "Stimulus - target pink, target left, gap at bottom",
-	   "221": "Stimulus - target pink, target right, gap at top",
-	   "222": "Stimulus - target pink, target right, gap at bottom",
-
-	   "201": "Response - correct",
-	   "202": "Response - error"
+      "-99": "Missing response - no buttonpress recorded within the response window",
+      "111": "Stimulus - target (blue outlined square, gap at top) in left visual field, non-target (pink outlined square) in right visual field; 11 additional black outlined squares with side gaps in background in each visual field; overall gray background; displayed for 500 ms, followed by interstimulus image for 900-1100 ms; correct response: index finger (top gap)",
+      "112": "Stimulus - target (blue outlined square, gap at bottom) in left visual field, non-target (pink outlined square) in right visual field; 11 additional black outlined squares with side gaps in background in each visual field; overall gray background; displayed for 500 ms, followed by interstimulus image for 900-1100 ms; correct response: middle finger (bottom gap)",
+      "121": "Stimulus - target (blue outlined square, gap at top) in right visual field, non-target (pink outlined square) in left visual field; 11 additional black outlined squares with side gaps in background in each visual field; overall gray background; displayed for 500 ms, followed by interstimulus image for 900-1100 ms; correct response: index finger (top gap)",
+      "122": "Stimulus - target (blue outlined square, gap at bottom) in right visual field, non-target (pink outlined square) in left visual field; 11 additional black outlined squares with side gaps in background in each visual field; overall gray background; displayed for 500 ms, followed by interstimulus image for 900-1100 ms; correct response: middle finger (bottom gap)",
+      "201": "Response - correct (index finger pressed for top gap, or middle finger pressed for bottom gap)",
+      "202": "Response - error (incorrect finger used for gap position)",
+      "211": "Stimulus - target (pink outlined square, gap at top) in left visual field, non-target (blue outlined square) in right visual field; 11 additional black outlined squares with side gaps in background in each visual field; overall gray background; displayed for 500 ms, followed by interstimulus image for 900-1100 ms; correct response: index finger (top gap)",
+      "212": "Stimulus - target (pink outlined square, gap at bottom) in left visual field, non-target (blue outlined square) in right visual field; 11 additional black outlined squares with side gaps in background in each visual field; overall gray background; displayed for 500 ms, followed by interstimulus image for 900-1100 ms; correct response: middle finger (bottom gap)",
+      "221": "Stimulus - target (pink outlined square, gap at top) in right visual field, non-target (blue outlined square) in left visual field; 11 additional black outlined squares with side gaps in background in each visual field; overall gray background; displayed for 500 ms, followed by interstimulus image for 900-1100 ms; correct response: index finger (top gap)",
+      "222": "Stimulus - target (pink outlined square, gap at bottom) in right visual field, non-target (blue outlined square) in left visual field; 11 additional black outlined squares with side gaps in background in each visual field; overall gray background; displayed for 500 ms, followed by interstimulus image for 900-1100 ms; correct response: middle finger (bottom gap)"
+    },
+    "HED": {
+      "-99": "Omitted-action",
+      "111": "(Duration/500 ms, (Sensory-event, Visual-presentation, Experimental-stimulus, (Target, Square, Outline-visualization, Blue, (Left-side-of, Computer-screen), (Label/Top-gap)), (Non-target, Square, Outline-visualization, Pink, (Right-side-of, Computer-screen), (Label/Bottom-gap)), (Background-view, (Square, Outline-visualization, Item-count/22, Black), (Image, Gray))))",
+      "112": "(Duration/500 ms, (Sensory-event, Visual-presentation, Experimental-stimulus, (Target, Square, Outline-visualization, Blue, (Left-side-of, Computer-screen), (Label/Bottom-gap)), (Non-target, Square, Outline-visualization, Pink, (Right-side-of, Computer-screen), (Label/Top-gap)), (Background-view, (Square, Outline-visualization, Item-count/22, Black), (Image, Gray))))",
+      "121": "(Duration/500 ms, (Sensory-event, Visual-presentation, Experimental-stimulus, (Target, Square, Outline-visualization, Blue, (Right-side-of, Computer-screen), (Label/Top-gap)), (Non-target, Square, Outline-visualization, Pink, (Left-side-of, Computer-screen), (Label/Bottom-gap)), (Background-view, (Square, Outline-visualization, Item-count/22, Black), (Image, Gray))))",
+      "122": "(Duration/500 ms, (Sensory-event, Visual-presentation, Experimental-stimulus, (Target, Square, Outline-visualization, Blue, (Right-side-of, Computer-screen), (Label/Bottom-gap)), (Non-target, Square, Outline-visualization, Pink, (Left-side-of, Computer-screen), (Label/Top-gap)), (Background-view, (Square, Outline-visualization, Item-count/22, Black), (Image, Gray))))",
+      "201": "Agent-action, Participant-response, Correct-action, (Press, (Push-button))",
+      "202": "Agent-action, Participant-response, Incorrect-action, (Press, (Push-button))",
+      "211": "(Duration/500 ms, (Sensory-event, Visual-presentation, Experimental-stimulus, (Target, Square, Outline-visualization, Pink, (Left-side-of, Computer-screen), (Label/Top-gap)), (Non-target, Square, Outline-visualization, Blue, (Right-side-of, Computer-screen), (Label/Bottom-gap)), (Background-view, (Square, Outline-visualization, Item-count/22, Black), (Image, Gray))))",
+      "212": "(Duration/500 ms, (Sensory-event, Visual-presentation, Experimental-stimulus, (Target, Square, Outline-visualization, Pink, (Left-side-of, Computer-screen), (Label/Bottom-gap)), (Non-target, Square, Outline-visualization, Blue, (Right-side-of, Computer-screen), (Label/Top-gap)), (Background-view, (Square, Outline-visualization, Item-count/22, Black), (Image, Gray))))",
+      "221": "(Duration/500 ms, (Sensory-event, Visual-presentation, Experimental-stimulus, (Target, Square, Outline-visualization, Pink, (Right-side-of, Computer-screen), (Label/Top-gap)), (Non-target, Square, Outline-visualization, Blue, (Left-side-of, Computer-screen), (Label/Bottom-gap)), (Background-view, (Square, Outline-visualization, Item-count/22, Black), (Image, Gray))))",
+      "222": "(Duration/500 ms, (Sensory-event, Visual-presentation, Experimental-stimulus, (Target, Square, Outline-visualization, Pink, (Right-side-of, Computer-screen), (Label/Bottom-gap)), (Non-target, Square, Outline-visualization, Blue, (Left-side-of, Computer-screen), (Label/Top-gap)), (Background-view, (Square, Outline-visualization, Item-count/22, Black), (Image, Gray))))"
     }
   }
 }

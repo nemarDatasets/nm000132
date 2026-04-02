@@ -1,6 +1,21 @@
 {
-  "value": {
-    "LongName": "Event code value",
-    "Description": "Numeric event codes. Stimulus codes 1-40: faces, 41-80: cars, 101-140: scrambled faces, 141-180: scrambled cars. Response codes 201: correct, 202: error."
+  "event_type": {
+      "Description": "Description for event_type",
+      "HED": {
+          "car": "(Duration/300 ms, (Sensory-event, Experimental-stimulus, Visual-presentation, (Image, Car), (Gray-color, Background-view)))",
+          "correct_response": "Agent-action, Participant-response, Correct-action, (Press, (Push-button))",
+          "face": "(Duration/300 ms, (Sensory-event, Experimental-stimulus, Visual-presentation, (Image, Face), (Gray-color, Background-view)))",
+          "incorrect_response": "Agent-action, Participant-response, Incorrect-action, (Press, (Push-button))",
+          "scrambled_car": "(Duration/300 ms, (Sensory-event, Experimental-stimulus, Visual-presentation, (Disordered, Image, Car), (Gray-color, Background-view)))",
+          "scrambled_face": "(Duration/300 ms, (Sensory-event, Experimental-stimulus, Visual-presentation, (Disordered, Image, Face), (Gray-color, Background-view)))"
+      },
+      "Levels": {
+          "face": "Stimulus - photograph of a human face (hair, background, and clothing cropped); one of 40 exemplars; presented at center of screen on gray background for 300 ms, followed by interstimulus image for 1100-1300 ms; correct response: 'object' button",
+          "car": "Stimulus - photograph of a car (background cropped); one of 40 exemplars; presented at center of screen on gray background for 300 ms, followed by interstimulus image for 1100-1300 ms; correct response: 'object' button",
+          "scrambled_face": "Stimulus - phase-scrambled version of a face image; one of 40 exemplars; presented at center of screen on gray background for 300 ms, followed by interstimulus image for 1100-1300 ms; correct response: 'texture' button",
+          "scrambled_car": "Stimulus - phase-scrambled version of a car image; one of 40 exemplars; presented at center of screen on gray background for 300 ms, followed by interstimulus image for 1100-1300 ms; correct response: 'texture' button",
+          "correct_response": "Response - correct buttonpress ('object' for face or car; 'texture' for scrambled face or scrambled car)",
+          "incorrect_response": "Response - incorrect buttonpress"
+      }
   }
 }

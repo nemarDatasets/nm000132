@@ -4,9 +4,16 @@
     "Levels": {
       "1": "Status event",
       "4": "Status event",
-      "70": "Stimulus - deviant",
-      "80": "Stimulus - standard",
-      "180": "Stimulus - first stream of standards"
+      "70": "Stimulus 1000 Hz deviant tone (70 dB SPL, p = .2)",
+      "80": "Stimulus 1000 Hz standard tone (80 dB SPL, p = .8)",
+      "180": "Stimulus 1000 Hz standard tone (80 dB SPL)in initial stream of 15 standards establishing auditory context (80 dB SPL)"
+    },
+    "HED": {
+      "1": "Experiment-control, ID/1",
+      "4": "Experiment-control, ID/4",
+      "70": "(Duration/100 ms, (Sensory-event, (Experimental-stimulus, Auditory-presentation, Target, Tone, Pitch/1000 Hz, Sound-volume/70 dB), (Visual-presentation, Distractor, Movie)))",
+      "80": "(Duration/100 ms, (Sensory-event, (Experimental-stimulus, Auditory-presentation, Non-target, Tone, Pitch/1000 Hz, Sound-volume/80 dB), (Visual-presentation, Distractor, Movie)))",
+      "180": "(Duration/100 ms, (Sensory-event, (Instructional, Auditory-presentation, Non-target, Tone, Pitch/1000 Hz, Sound-volume/80 dB), (Visual-presentation, Distractor, Movie)))"
     }
   }
 }
