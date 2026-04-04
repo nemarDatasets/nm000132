@@ -3,7 +3,7 @@
   "pipeline_stage": "validated",
   "title": "ERP CORE",
   "description": "ERP CORE is a comprehensive open-access resource for event-related potential (ERP) research, providing raw EEG data from 40 neurotypical participants collected across six standardized task paradigms designed to elicit seven widely-used ERP components: N170, mismatch negativity (MMN), N2pc, N400, P3, lateralized readiness potential (LRP), and error-related negativity (ERN). The dataset includes optimized experiment control scripts, data processing pipelines, analysis scripts, task stimuli, and comprehensive results to facilitate reproducible ERP research and methodological standardization.",
-  "methods_description": "EEG data were collected from 40 neurotypical adults across six task paradigms: Eriksen flanker task (ERN/LRP), passive auditory oddball (MMN), face perception (N170), visual search (N2pc), word pair judgment (N400), and active visual oddball (P3). Task order was randomized across participants with counterbalanced parameters. Stimuli were presented with jittered interstimulus intervals to prevent alpha-band phase-locking. Each task block included 'Ready-Set-Go' preparation screens and participant-controlled rest breaks.",
+  "methods_description": "EEG data were collected from 40 neurotypical adults across six task paradigms: Eriksen flanker task (ERN/LRP), passive auditory oddball (MMN), face perception (N170), visual search (N2pc), word pair judgment (N400), and active visual oddball (P3). Task order was randomized across participants with counterbalanced parameters. Stimuli were presented with jittered interstimulus intervals using rectangular distributions. Each task block began with 'Ready,' 'Set,' 'Go' screens, with participant-controlled rest breaks between blocks.",
   "license": "CC-BY-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -47,6 +47,9 @@
     },
     {
       "term": "open science"
+    },
+    {
+      "term": "BIDS"
     }
   ],
   "related_identifiers": [
@@ -81,6 +84,12 @@
       "relation_type": "IsDescribedBy"
     }
   ],
+  "funding_references": [
+    {
+      "funder_name": "National Institute of Mental Health",
+      "award_number": "R01-MH087450"
+    }
+  ],
   "resource_type_general": "Dataset",
   "resource_type_specific": "EEG Dataset",
   "modalities": [
@@ -101,11 +110,5 @@
     ".wav",
     ".yml"
   ],
-  "funding_references": [
-    {
-      "funder_name": "National Institute of Mental Health",
-      "award_number": "R01-MH087450"
-    }
-  ],
-  "source_hash": "6ada636f268dcbc067051ac4f886c1307fc84c55d6cdeb2d3b0b2522b7fb8951"
+  "source_hash": "a9c44905bfcb0f5e98969a0b8806f854ae64163fe938f8169f385f82d49daad2"
 }
