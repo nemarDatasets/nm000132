@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "ERP CORE",
-  "description": "ERP CORE is a comprehensive open-access resource for event-related potential (ERP) research, providing raw EEG data from 40 neurotypical participants collected across six standardized task paradigms designed to elicit seven widely-used ERP components: N170, mismatch negativity (MMN), N2pc, N400, P3, lateralized readiness potential (LRP), and error-related negativity (ERN). The dataset includes optimized experiment control scripts, data processing pipelines, analysis scripts, task stimuli, and comprehensive results to facilitate reproducible ERP research and methodological standardization.",
-  "methods_description": "EEG data were collected from 40 neurotypical adults across six task paradigms: Eriksen flanker task (ERN/LRP), passive auditory oddball (MMN), face perception (N170), visual search (N2pc), word pair judgment (N400), and active visual oddball (P3). Task order was randomized across participants with counterbalanced parameters. Stimuli were presented with jittered interstimulus intervals using rectangular distributions. Each task block began with 'Ready,' 'Set,' 'Go' screens, with participant-controlled rest breaks between blocks.",
+  "description": "ERP CORE is a comprehensive open-access resource for event-related potential (ERP) research, providing raw EEG data from 40 neurotypical participants collected across six standardized task paradigms designed to elicit seven widely-used ERP components: N170, mismatch negativity (MMN), N2pc, N400, P3, lateralized readiness potential (LRP), and error-related negativity (ERN). The dataset includes optimized experimental scripts, stimulus materials, demographic information, and data processing pipelines to facilitate reproducible ERP research and component characterization.",
+  "methods_description": "EEG data were collected from 40 neurotypical adults across six task paradigms: Eriksen flanker task (ERN/LRP), passive auditory oddball (MMN), face perception (N170), visual search (N2pc), word pair judgment (N400), and active visual oddball (P3). Task order was randomized across participants with counterbalanced parameters. Stimuli were presented with jittered interstimulus intervals using rectangular distributions. Each task consisted of multiple blocks with participant-controlled rest breaks.",
   "license": "CC-BY-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -40,16 +40,31 @@
       "term": "mismatch negativity"
     },
     {
-      "term": "error-related negativity"
+      "term": "N400"
+    },
+    {
+      "term": "P300"
     },
     {
       "term": "cognitive neuroscience"
     },
     {
-      "term": "open science"
+      "term": "ERN"
     },
     {
-      "term": "BIDS"
+      "term": "LRP"
+    },
+    {
+      "term": "N2pc"
+    },
+    {
+      "term": "flanker task"
+    },
+    {
+      "term": "oddball task"
+    },
+    {
+      "term": "visual search"
     }
   ],
   "related_identifiers": [
